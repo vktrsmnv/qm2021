@@ -3,7 +3,7 @@
 name: Quantitative Methods in Political Science
 organizations:
 - name: University of Mannheim 
-  url: "http://www.drps.ed.ac.uk/20-21/dpt/cxmath08077.htm"
+  url: "https://portal2.uni-mannheim.de:443/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22746&periodId=923&navigationPosition=hisinoneLehrorganisation,examEventOverviewOwn"
 role: Fall 2021
 social:
 - icon: github
