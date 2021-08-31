@@ -1,106 +1,278 @@
 ---
 authors:
 - admin
-date: "2020-09-13T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 draft: false
 featured: false
-lastmod: "2020-09-13T00:00:00Z"
+lastmod: "2021-09-01T00:00:00Z"
 projects: []
-summary: This is a tentative course schedule. The flow of topics might change slightly depending on how quickly / slowly it feels right to progress through them. However the deadlines for assignments will not change barring unexpected circumstances.
-title: 'Overview'
+summary: Here you can find a tentative course schedule. While we will try to carry out the course in person, it is possible that we have to switch to online classes at some point. 
+
+title: 'Course Overview'
 ---
 
-The figure below is a visual summary of the tentative course schedule. The flow of topics for each week might change slightly depending on how quickly / slowly it feels right to progress through them. However the deadlines for assignments will not change barring unexpected circumstances, which, unfortunately, is not super unlikely this semester! If deadlines need to be adjusted due to COVID related reasons, they will be pushed to a later date and never pulled up to an earlier date. If it becomes necessary to make such adjustments, I will try my best to avoid collision with other previously scheduled deadlines but this might be difficult to ensure.
+<!-- The figure below is a visual summary of the tentative course schedule. The flow of topics for each week might change slightly depending on how quickly / slowly it feels right to progress through them. However the deadlines for assignments will not change barring unexpected circumstances, which, unfortunately, is not super unlikely this semester! If deadlines need to be adjusted due to COVID related reasons, they will be pushed to a later date and never pulled up to an earlier date. If it becomes necessary to make such adjustments, I will try my best to avoid collision with other previously scheduled deadlines but this might be difficult to ensure. -->
 
-```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%", fig.asp=0.9}
+
+```{r include=FALSE, warning=FALSE, message=FALSE, fig.width = 10, fig.height = 6}
 library(tidyverse)
 library(viridis)
 library(sugrrants)
 library(lubridate)
+# devtools::install_github("ropenscilabs/icon")
+# install.packages("emojifont")
+library(emojifont)
+load.fontawesome()
+fa <- fontawesome(c("fa-github", "fa-laptop", "fa-edit", "fa-comments"))
 
-d <- read_csv("course-calendar.csv") %>%
-  mutate(date = dmy(date))
+# packages needed
+p_needed <- c("showtext", "tidyverse", "viridis", "sugrrants", "lubridate", "emojifont")
 
-d_cal <- d %>%
+# check if packages are installed and if not, install them
+lapply(p_needed[!(p_needed %in% rownames(installed.packages()))], install.packages)
+
+# prepare packages for use with library
+lapply(p_needed, library, character.only = TRUE)
+
+font_add_google("Indie Flower")
+font_add_google("Source Sans Pro")
+showtext_auto()
+
+theme_set(
+  ggthemes::theme_base(base_family = "Source Sans Pro")
+)
+```
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE,  fig.width = 10, fig.height = 6, fig.asp=0.9}
+cal <- tibble(
+  date = seq(ymd(20210906), ymd(20211219), by = 1),
+  day = wday(
+    date,
+    label = T,
+    abbr = T,
+    week_start = 1
+  ),
+  week = rep(1:15, each = 7),
+  lab_instructor = case_when(
+    day == "Mon" &
+      date != "2021-09-06" &
+      date != "2021-11-01" &
+      week != 15 ~ "Viktoria",
+    day == "Tue" &
+      date != "2021-11-02" &
+      date != "2021-09-07" &
+      week != 15 ~ "David",
+    day == "Thu" &
+      date != "2021-10-28" &
+      date != "2021-12-09" &
+      week != 15 ~ "Oliver",
+    # date == "2021-09-07" ~ "Welcome Session",
+    TRUE ~ ""
+  )
+) %>%
   frame_calendar(
     x = 1, y = 1, date = date,
-    calendar = "weekly", week_start = -1
+    calendar = "weekly", week_start = 1,
+    scale = "free_wday"
   ) %>%
   mutate(
-    day_short = str_sub(day, 1, 1),
-    day_short = if_else(day == "Thursday", "Th", day_short),
-    day_short = if_else(day == "Saturday", "Sa", day_short),
-    day_short = if_else(day == "Sunday", "Su", day_short),
     day_of_month = day(date),
     month = month(date, label = TRUE, abbr = TRUE),
     day_of_month = paste(month, day_of_month),
-    due_type = fct_relevel(due_type, "Homework", "Quiz", "Lab", "Project", "Feedback survey", "Extra credit")
+    weekend = ifelse(day %in% c("Sat", "Sun"), T, F)
   )
 
-d_cal %>%
+# create labs
+# cal$lab_num <- ""
+cal$lab_num[cal$day == "Mon"] <- c("", 1:7, "", 8, 10:13, "")
+cal$lab_num[cal$day == "Tue"] <- c(0:7, "", 8, 10:13, "")
+cal$lab_num[cal$day == "Thu"] <- c(1:7, "", 8, 10:13, "", "")
+
+cal$lab <- paste0("Lab ", cal$lab_num, ": ", cal$lab_instructor) %>%
+  ifelse(cal$lab_instructor == "", "", .)
+cal$welcome[cal$date == "2021-09-06"] <- "Welcome Session"
+
+# lectures
+# cal$lecture <- ""
+cal$lecture[cal$day == "Wed"] <- c(
+  paste("Lecture", 1:8),
+  "Midterm",
+  paste("Lecture", 10:13),
+  "", ""
+)
+# OH
+# cal$OH <- ""
+cal$OH[cal$day == "Mon"] <- "Lab"
+cal$OH[cal$day == "Wed"] <- "Lecture"
+
+cal$OH[cal$date == "2021-09-06"] <- ""
+cal$OH[cal$date == "2021-09-07"] <- ""
+cal$OH[cal$date == "2021-11-01"] <- ""
+
+# create HWs
+cal$hw_due <- ""
+cal$hw_due[cal$day == "Tue"] <- c(
+  "", "",
+  paste0("HW", 1:6, " due"),
+  "", "",
+  paste0("HW", 7:10, " due")
+)
+
+cal$hw_out <- ""
+cal$hw_out[cal$day == "Tue"] <- c("",
+                                  paste0("HW", 1:7, " out"),
+                                  "", "",
+                                  paste0("HW", 8:10, " out"),
+                                 "", "")
+
+cal$dataessay <- ifelse(cal$date %in% seq(ymd("2021-12-08"), ymd("2021-12-15"), by = 1),
+  T,
+  F
+)
+
+cal$midterm <- ifelse(cal$date %in% ymd("2021-11-03"),
+  T,
+  F
+)
+```
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE,  fig.asp=0.9, out.width="100%"}
+
+cal %>%
   ggplot(aes(x = .x, y = .y)) +
-  geom_tile(aes(fill = due_type, alpha = mark_type), colour = "gray50") +
-  # labels
-  geom_text(
-    data = d_cal %>% filter(mark_type == "Marked"),
-    aes(label = due_detail), color = "white",
-    size = 3, fontface = "bold"
-  ) +
-  geom_text(
-    data = d_cal %>% filter(mark_type != "Marked"),
-    aes(label = due_detail), color = "white",
-    size = 3, fontface = "bold"
-  ) +
-  # day
-  geom_text(
-    data = d_cal %>% filter(is.na(due_type)),
-    aes(label = day_short), color = "grey50", size = 2,
-    nudge_x = -0.08, nudge_y = 0.03, hjust = 0
-  ) +
-  geom_text(
-    data = d_cal %>% filter(!is.na(due_type)),
-    aes(label = day_short), color = "white", size = 2,
-    nudge_x = -0.08, nudge_y = 0.03, hjust = 0
+  geom_tile(aes(fill = weekend),
+    alpha = 0.3,
+    colour = "grey20", show.legend = F
   ) +
   # date
   geom_text(
-    data = d_cal %>% filter(is.na(due_type)),
-    aes(label = day_of_month), color = "grey50", size = 2,
-    nudge_x = 0.08, nudge_y = -0.03, hjust = 1
+    data = cal %>% filter(is.na(lab)),
+    aes(label = day_of_month), 
+    color = "#0B0405", 
+    size = 4,
+    nudge_x = 0.08, nudge_y = -0.02, hjust = 1,
+    family = "Source Sans Pro"
   ) +
   geom_text(
-    data = d_cal %>% filter(!is.na(due_type)),
-    aes(label = day_of_month), color = "white", size = 2,
-    nudge_x = 0.08, nudge_y = -0.03, hjust = 1
+    data = cal %>% filter(!is.na(lab)),
+    aes(label = day_of_month), color = "#0B0405", size = 4,
+    size = 7,
+    nudge_x = 0.08, nudge_y = -0.02, hjust = 1, family = "Source Sans Pro"
   ) +
-  # colors
-  scale_fill_manual(
-    values = c(
-      "Homework"         = "#8fada7",
-      "Quiz"             = "#8A8A8A",
-      "Lab"              = "#99B2DD",
-      "Project"          = "#5A5D74",
-      "Extra credit"     = "#e9d968",
-      "Feedback survey"  = "#E9AFA3"
-    ),
-    na.translate = FALSE
-  ) +
-  # alpha
-  scale_alpha_manual(values = c("Marked" = 1, "Not marked" = 0.8, "Extra credit" = 0.8), guide = FALSE) +
-  # theme
-  theme_void() +
-  theme(
+  theme_void(base_family = "Indie Flower") +
+  theme( # #003056
     legend.position = "bottom",
-    plot.caption = element_text(face = "italic", colour = "gray50", hjust = 1, vjust = 33)
-  ) +
-  labs(
-    fill = "",
-    caption = "Homework 0, Lab 0, Quiz 0, and course feedback surveys are not marked."
+    plot.caption = element_text(face = "italic", colour = "#0B0405", hjust = 1, vjust = 33)
   ) +
   geom_text(
-    data = d_cal %>% filter(day == "Monday"),
+    data = cal %>% filter(day == "Mon"),
     aes(y = .y, label = paste("Week", week)), x = -0.1,
-    hjust = 1, color = "grey50"
+    size = 7,
+    hjust = 1, color = "#0B0405", family = "Indie Flower"
   ) +
+  # lectures
+  geom_text(
+    data = cal %>% filter(day == "Wed"),
+    aes(label = lecture), color = "#003056",
+    size = 5, family = "Indie Flower",
+    nudge_x = -0.035,
+    nudge_y = 0.02
+  ) +
+  geom_text(
+    data = cal %>% filter(week == "1"),
+    aes(x = .x, label = day), y = 1.07, size = 4,
+    hjust = 1, color = "#0B0405", family = "Indie Flower"
+  ) +
+  coord_cartesian(xlim = c(-0.2, 1.03), clip = "off") +
+  geom_text(
+    data = cal %>% filter(OH != ""),
+    aes(label = emojifont::fontawesome("fa-comments-o")),
+    color = "#003056",
+    # color = "#0B0405",
+    size = 5,
+    family = "fontawesome-webfont",
+    nudge_x = -0.06,
+    nudge_y = -0.015
+  ) +
+  geom_text(
+    data = cal %>% filter(lab != ""),
+    aes(label = lab), color = "#003056",
+    size = 5, family = "Indie Flower",
+    nudge_x = -0.025,
+    nudge_y = 0.02
+  ) +
+  geom_text(
+    data = cal %>% filter(OH != ""),
+    aes(label = OH),
+    color = "#003056",
+    size = 5,
+    family = "Indie Flower",
+    nudge_x = -0.015,
+    nudge_y = -0.02
+  ) +
+  geom_text(
+    data = cal %>% filter(hw_due != ""),
+    aes(label = hw_due), color = "#df7e50",
+    size = 5, family = "Indie Flower",
+    nudge_x = -0.03,
+    nudge_y = -0.005
+  ) +
+  geom_text(
+    data = cal %>% filter(hw_out != ""),
+    aes(label = hw_out), color = "#94b166",
+    size = 5, family = "Indie Flower",
+    nudge_x = 0.05,
+    nudge_y = -0.005
+  ) +
+  geom_tile(
+    data = cal %>% filter(dataessay == T | midterm == T),
+    # aes(fill = dataessay),
+    alpha = 0.3,
+    fill = "#df7e50",
+    show.legend = F
+  ) +
+  geom_text(
+    data = cal %>% filter(date == "2021-12-09"),
+    aes(label = "Data   Essay  Week"),
+    color = "#df7e50",
+    size =10, family = "Indie Flower"
+  ) + 
+  scale_fill_manual(values = c("#ffffff", "#707070", "#df7e50")) +
+   geom_text(
+    data = cal %>% filter(!is.na(welcome)),
+    aes(label = welcome), color = "#003056",
+    size = 5, family = "Indie Flower",
+    nudge_x = -0.01,
+    nudge_y = 0.02
+  ) +
+  theme(plot.title = element_text(hjust = 0.5, size = 30),
+        text = element_text(family = "Source Sans Pro", size = 20),
+        # plot.caption.position = "plot",
+        plot.caption = element_text(vjust = 0.2, size = 20,
+                                    hjust = 0.5)
+        ) +
+  labs(title = "QM 2021: Semester Overview",
+       subtitle = "   ",
+       caption = "Welcome Session, Lecture 1, and Lab 1 take place online.") +
   coord_cartesian(xlim = c(-0.2, 1.03), clip = "off")
+
+# ggsave(
+#   filename = "qm2021_schedule.pdf",
+#   width = 10,
+#   height = 6,
+#   device = cairo_pdf
+# )
+
+
 ```
+
+
+
+<!-- ```{r echo=FALSE, fig.asp=0.9} -->
+<!-- knitr::include_graphics("qm2021_schedule.pdf", ) -->
+
+
+<!-- ``` -->
+

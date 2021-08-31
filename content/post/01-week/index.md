@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2020-09-21T00:00:00Z"
+date: "2021-09-02T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,11 +9,11 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2020-09-21T00:00:00Z"
+lastmod: "2021-09-02T00:00:00Z"
 projects: []
 subtitle: 'Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester :toolbox:'
 summary: Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
-title: 'Week 1 - Welcome to IDS'
+title: 'Week 0 - Welcome to QM'
 ---
 
 ### Tasks
@@ -64,22 +64,5 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | :page_facing_up: | [1,500 scientists lift the lid on reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) | Optional |
 |  :fountain_pen:  | [How R changed me as an analyst](https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/) | Optional
 
-### Code-along
 
-This week we worked with the [Himalayan climbing expeditions data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-22/readme.md) from TidyTuesday. TidyTuesday is a weekly social data project for the R community. Read more about TidyTuesday [here](https://github.com/rfordatascience/tidytuesday) and see people's contributions on Twitter under the [#tidytuesday hashtag](https://twitter.com/search?q=tidytuesday&src=typed_query). 
 
-You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 01 - Himalayan Climbing Expeditions*.
-
-| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
-|:---|:---|
-| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/QiNlCEPw6Gc) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+01+-+Code+along/1_41jajjd7) |
-| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/himalayan-climbing.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/himalayan-climbing.md) |
-| Bonus | [Text analysis of chat transcript from the session!](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/01-chat-analysis.md) |
-
-### Interactive R tutorials
-
-The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.
-
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
-| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |

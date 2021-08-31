@@ -10,5 +10,5 @@ subtitle = ""
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Course team", "Past instructors"]
+user_groups = ["Course team", "Past course instructors"]
 +++
