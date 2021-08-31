@@ -1,27 +1,27 @@
 ---
 
-name: Introduction to Data Science
+name: Quantitative Methods in Political Science
 organizations:
-- name: University of Edinburgh 
+- name: University of Mannheim 
   url: "http://www.drps.ed.ac.uk/20-21/dpt/cxmath08077.htm"
-role: Fall 2020
+role: Fall 2021
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/ids-s1-20
+  link: https://github.com/uni-mannheim-qm-2021
 - icon: r-project
   icon_pack: fab
   link: https://rstudio.cloud/
-- icon: piazza
-  icon_pack: ai
-  link: https://piazza.com/
 - icon: university
   icon_pack: fas
-  link: https://www.learn.ed.ac.uk/
+  link: https://www.uni-mannheim.de/
   
 superuser: true
 ---
 
-Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner. Gain experience in data collection, wrangling, and visualization, exploratory data analysis, predictive modeling, and effective communication of results while working on problems and case studies inspired by and based on real-world questions. The course will focus on the R statistical computing language. No statistical or computing background is necessary.
+This course introduces graduate students to quantitative methods in political science.
+During the first half of the course, we will focus on linear regression models. The topics covered include discussions of the mathematical bases for such models, their estimation and interpretation, model assumptions and techniques for addressing violations of those assumptions, and topics related to model specification and functional forms. During the second half of the course, students will be introduced to the likelihood principle as a theory of inference, including models for binary and count data.
 
-This is the website for the Introduction to Data Science course offered in 2020. Click [here](https://introds-2019.netlify.app/) if you're looking for the 2019 version of the course.
+The main goals of this course are to develop sound critical judgment about quantitative
+studies of political problems, to interpret quantitative analyses in published work, to understand the logic of statistical inference and to recognize and understand basic regression models. It provides the skills necessary to conduct your own quantitative analyses and teaches how to do so using R. This class lays the foundation for *Advanced Quantitative Methods*, which will be taught in Spring 2022.
+
