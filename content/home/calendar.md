@@ -88,8 +88,7 @@ Effects via the Simulation Method|             | Link Slides |
 | Sun  | Nov 7  |              |                                 |             |             |
 | Mon  | Nov 8  | 12:00--13:30 | Lab 8 (Victoriia)               | C--108 (A5) |             |
 | Tue  | Nov 9  | 17:15--18:45 | Lab 8 (David)                   | C--108 (A5) |             |
-| Wed  | Nov 10 | 8:30--10:00  | Lecture 10: Non-linear Probability Models - The Likelihood
-Theory of Statistical Inference|             | Link Slides |
+| Wed  | Nov 10 | 8:30--10:00  | Lecture 10: Non-linear Probability Models - The Likelihood Theory of Statistical Inference|             | Link Slides |
 | Thu  | Nov 11 | 10:15--11:45 | Lab 10 (Oliver)                 | C--108 (A5) |             |
 | Fri  | Nov 12 |              |                                 |             |             |
 | Sat  | Nov 13 |              |                                 |             |             |
