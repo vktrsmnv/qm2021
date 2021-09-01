@@ -17,10 +17,15 @@
   name = "Syllabus"
   url = "#syllabus"
   weight = 50
+  
+[[main]]
+  name = "Calendar"
+  url = "#calendar"
+  weight = 50
 
 [[main]]
   name = "Help"
-  url = "#help"
+  url = "#support_infrastructure"
   weight = 60
 
 
