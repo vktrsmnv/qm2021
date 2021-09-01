@@ -1,14 +1,14 @@
 ---
 authors:
 - admin
-date: "2021-09-07T00:00:00Z"
+date: "2021-09-03T00:00:00Z"
 draft: false
 featured: false
 lastmod: "2021-09-02T00:00:00Z"
 projects: []
 subtitle: ''
 summary: 
-title: 'Week 00 - Getting starteds.'
+title: 'Week 00 - Getting started.'
 ---
 
 # Welcome!
