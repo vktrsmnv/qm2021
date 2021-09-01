@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2021-09-02T00:00:00Z"
+date: "2021-09-22T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -34,8 +34,8 @@ title: 'Week 03 - Sampling & Statistical Inference.'
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :page_facing_up: | [Course syllabus](https://introds.org/) | **Required** | 
-| :open_book: | [Wooldridge, Jeffrey. 2009. Introductory Econometrics. Appendix C.](https://r4ds.had.co.nz/explore-intro.html) | **Required** |
+| :page_facing_up: | [Course syllabus]() | **Required** | 
+| :open_book: | [Wooldridge, Jeffrey. 2009. Introductory Econometrics. Appendix C.]() | **Required** |
 
 
 

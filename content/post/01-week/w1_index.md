@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2021-09-02T00:00:00Z"
+date: "2021-09-07T00:00:00Z"
 draft: false
 featured: false
 lastmod: "2021-09-02T00:00:00Z"
@@ -27,8 +27,8 @@ title: 'Week 01 - Introduction. Visualizing Data.'
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :page_facing_up: | [Course syllabus](https://introds.org/) | **Required** | 
-| :open_book: | [Fox, John. 2008. Applied Regression Analysis. Chapters 1 and 3.](https://r4ds.had.co.nz/explore-intro.html) | **Required** |
+| :page_facing_up: | [Course syllabus]() | **Required** | 
+| :open_book: | [Fox, John. 2008. Applied Regression Analysis. Chapters 1 and 3.]() | **Required** |
 
 
 

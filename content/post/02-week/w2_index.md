@@ -1,14 +1,9 @@
 ---
 authors:
 - admin
-date: "2021-09-02T00:00:00Z"
+date: "2021-09-15T00:00:00Z"
 draft: false
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/IuLgi9PWETU)'
-  focal_point: ""
-  placement: 2
-  preview_only: true
 lastmod: "2021-09-02T00:00:00Z"
 projects: []
 subtitle: ''
@@ -33,8 +28,8 @@ title: 'Week 02 - Fundamentals of Probability.'
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :page_facing_up: | [Course syllabus](https://introds.org/) | **Required** | 
-| :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.](https://r4ds.had.co.nz/explore-intro.html) | **Required** |
+| :page_facing_up: | [Course syllabus]() | **Required** | 
+| :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.]() | **Required** |
 
 
 
