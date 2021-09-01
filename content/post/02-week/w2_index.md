@@ -16,7 +16,7 @@ summary:
 title: 'Week 02 - Fundamentals of Probability.'
 ---
 
-### Schedule of the Week
+### Schedule of the Week (Sep 13 -- Sep 19)
 
 | <div style="width:50px;text-align:left">Day</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:270px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:left">Slides</div> |
 |:-----|:-------------|:--------------------------------|:------------|:------------|
@@ -34,7 +34,7 @@ title: 'Week 02 - Fundamentals of Probability.'
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
 | :page_facing_up: | [Course syllabus](https://introds.org/) | **Required** | 
-| :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--1.](https://r4ds.had.co.nz/explore-intro.html) | **Required** |
+| :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.](https://r4ds.had.co.nz/explore-intro.html) | **Required** |
 
 
 

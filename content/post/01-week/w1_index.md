@@ -11,7 +11,7 @@ summary:
 title: 'Week 01 - Introduction. Visualizing Data.'
 ---
 
-### Schedule of the Week
+### Schedule of the Week (Sep 6 -- Sep 12)
 
 | <div style="width:50px;text-align:left">Day</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:270px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:left">Slides</div> |
 |:-----|:-------------|:--------------------------------|:------------|:------------|
