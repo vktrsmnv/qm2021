@@ -11,7 +11,7 @@ title = "Calendar"
 |:-----|:-------|:-------------|:--------------------------------|:------------|:------------|
 | Mon  | Sep 6  | 12:00--13:30 | Welcome Session (online only!)  | online      | Link Slides |
 | Tue  | Sep 7  |              |                                 |             |             |
-| Wed  | Sep 8  | 8:30--10:00  | Lecture 1: Introduction. Visualizing Data. |             | Link Slides |
+| Wed  | Sep 8  | 8:30--10:00  | Lecture 1: Introduction. Visualizing Data. | B--144 (A5) | Link Slides |
 | Thu  | Sep 9  | 10:15--11:45 | Lab 1 (Oliver)                  | C--108 (A5) |             |
 | Fri  | Sep 10 |              |                                 |             |             |
 | Sat  | Sep 11 |              |                                 |             |             |
@@ -19,7 +19,7 @@ title = "Calendar"
 | Mon  | Sep 13 | 12:00--13:30 | Lab 1 (Victoriia)               | C--108 (A5) |             |
 | Tue  | Sep 14 | 17:15--18:45 | Lab 1 (David)                   | C--108 (A5) |             |
 |      |        |              | Distribution HW 1               |             |             |
-| Wed  | Sep 15 | 8:30--10:00  | Lecture 2: Fundamentals of Probability|             | Link Slides |
+| Wed  | Sep 15 | 8:30--10:00  | Lecture 2: Fundamentals of Probability| B--144 (A5) | Link Slides |
 | Thu  | Sep 16 | 10:15--11:45 | Lab 2 (Oliver)                  | C--108 (A5) |             |
 | Fri  | Sep 17 |              |                                 |             |             |
 | Sat  | Sep 18 |              |                                 |             |             |
@@ -28,7 +28,7 @@ title = "Calendar"
 | Tue  | Sep 21 | 17:15--18:45 | Lab 2 (David)                   | C--108 (A5) |             |
 |      |        |              | Distribution HW 2               |             |             |
 |      |        | --23:59      | Deadline HW 1                   |             |             |
-| Wed  | Sep 22 | 8:30--10:00  | Lecture 3: Sampling & Statistical Inference|             | Link Slides |
+| Wed  | Sep 22 | 8:30--10:00  | Lecture 3: Sampling & Statistical Inference| B--144 (A5) | Link Slides |
 | Thu  | Sep 23 | 10:15--11:45 | Lab 3 (Oliver)                  | C--108 (A5) |             |
 | Fri  | Sep 24 |              |                                 |             |             |
 | Sat  | Sep 25 |              |                                 |             |             |
@@ -37,7 +37,7 @@ title = "Calendar"
 | Tue  | Sep 28 | 17:15--18:45 | Lab 3 (David)                   | C--108 (A5) |             |
 |      |        |              | Distribution HW 3               |             |             |
 |      |        | --23:59      | Deadline HW 2                   |             |             |
-| Wed  | Sep 29 | 8:30--10:00  | Lecture 4: Linear Regression: Basics & Hypothesis Testing|             | Link Slides |
+| Wed  | Sep 29 | 8:30--10:00  | Lecture 4: Linear Regression: Basics & Hypothesis Testing| B--144 (A5) | Link Slides |
 | Thu  | Sep 30 | 10:15--11:45 | Lab 4 (Oliver)                  | C--108 (A5) |             |
 | Fri  | Oct 1  |              |                                 |             |             |
 | Sat  | Oct 2  |              |                                 |             |             |
@@ -46,7 +46,7 @@ title = "Calendar"
 | Tue  | Oct 5  | 17:15--18:45 | Lab 4 (David)                   | C--108 (A5) |             |
 |      |        |              | Distribution HW 4               |             |             |
 |      |        | --23:59      | Deadline HW 3                   |             |             |
-| Wed  | Oct 6  | 8:30--10:00  | Lecture 5: Linear Regression: Statistical Control & Causality|             | Link Slides |
+| Wed  | Oct 6  | 8:30--10:00  | Lecture 5: Linear Regression: Statistical Control & Causality| B--144 (A5) | Link Slides |
 | Thu  | Oct 7  | 10:15--11:45 | Lab 5 (Oliver)                  | C--108 (A5) |             |
 | Fri  | Oct 8  |              |                                 |             |             |
 | Sat  | Oct 9  |              |                                 |             |             |
@@ -55,7 +55,7 @@ title = "Calendar"
 | Tue  | Oct 12 | 17:15--18:45 | Lab 5 (David)                   | C--108 (A5) |             |
 |      |        |              | Distribution HW 5               |             |             |
 |      |        | --23:59      | Deadline HW 4                   |             |             |
-| Wed  | Oct 13 | 8:30--10:00  | Lecture 6: Linear Regression: Dummies and Interactions|             | Link Slides |
+| Wed  | Oct 13 | 8:30--10:00  | Lecture 6: Linear Regression: Dummies and Interactions| B--144 (A5) | Link Slides |
 | Thu  | Oct 14 | 10:15--11:45 | Lab 6 (Oliver)                  | C--108 (A5) |             |
 | Fri  | Oct 15 |              |                                 |             |             |
 | Sat  | Oct 16 |              |                                 |             |             |
@@ -65,7 +65,7 @@ title = "Calendar"
 |      |        |              | Distribution HW 6               |             |             |
 |      |        | --23:59      | Deadline HW 5                   |             |             |
 | Wed  | Oct 20 | 8:30--10:00  | Lecture 7: Linear Regression: Interpreting Substantive
-Effects via the Simulation Method|             | Link Slides |
+Effects via the Simulation Method| B--144 (A5) | Link Slides |
 | Thu  | Oct 21 | 10:15--11:45 | Lab 7 (Oliver)                  | C--108 (A5) |             |
 | Fri  | Oct 22 |              |                                 |             |             |
 | Sat  | Oct 23 |              |                                 |             |             |
@@ -74,7 +74,7 @@ Effects via the Simulation Method|             | Link Slides |
 | Tue  | Oct 26 | 17:15--18:45 | Lab 7 (David)                   | C--108 (A5) |             |
 |      |        |              | Distribution HW 7               |             |             |
 |      |        | --23:59      | Deadline HW 6                   |             |             |
-| Wed  | Oct 27 | 8:30--10:00  | Lecture 8: Linear Regression: Diagnostics|             | Link Slides |
+| Wed  | Oct 27 | 8:30--10:00  | Lecture 8: Linear Regression: Diagnostics| B--144 (A5) | Link Slides |
 | Thu  | Oct 28 |              |                                 |             |             |
 | Fri  | Oct 29 |              |                                 |             |             |
 | Sat  | Oct 30 |              |                                 |             |             |
@@ -88,7 +88,7 @@ Effects via the Simulation Method|             | Link Slides |
 | Sun  | Nov 7  |              |                                 |             |             |
 | Mon  | Nov 8  | 12:00--13:30 | Lab 8 (Victoriia)               | C--108 (A5) |             |
 | Tue  | Nov 9  | 17:15--18:45 | Lab 8 (David)                   | C--108 (A5) |             |
-| Wed  | Nov 10 | 8:30--10:00  | Lecture 10: Non-linear Probability Models - The Likelihood Theory of Statistical Inference|             | Link Slides |
+| Wed  | Nov 10 | 8:30--10:00  | Lecture 10: Non-linear Probability Models - The Likelihood Theory of Statistical Inference| B--144 (A5) | Link Slides |
 | Thu  | Nov 11 | 10:15--11:45 | Lab 10 (Oliver)                 | C--108 (A5) |             |
 | Fri  | Nov 12 |              |                                 |             |             |
 | Sat  | Nov 13 |              |                                 |             |             |
@@ -97,7 +97,7 @@ Effects via the Simulation Method|             | Link Slides |
 | Tue  | Nov 16 | 17:15--18:45 | Lab 8 (David)                   | C--108 (A5) |             |
 |      |        |              | Distribution HW 8               |             |             |
 |      |        | --23:59      | Deadline HW 7                   |             |             |
-| Wed  | Nov 17 | 8:30--10:00  | Lecture 10: Binary Data         |             | Link Slides |
+| Wed  | Nov 17 | 8:30--10:00  | Lecture 10: Binary Data         | B--144 (A5) | Link Slides |
 | Thu  | Nov 18 | 10:15--11:45 | Lab 10 (Oliver)                 | C--108 (A5) |             |
 | Fri  | Nov 19 |              |                                 |             |             |
 | Sat  | Nov 20 |              |                                 |             |             |
@@ -106,7 +106,7 @@ Effects via the Simulation Method|             | Link Slides |
 | Tue  | Nov 23 | 17:15--18:45 | Lab 11 (David)                  | C--108 (A5) |             |
 |      |        |              | Distribution HW 9               |             |             |
 |      |        | --23:59      | Deadline HW 8                   |             |             |
-| Wed  | Nov 24 | 8:30--10:00  | Lecture 12: Count Data|             | Link Slides |
+| Wed  | Nov 24 | 8:30--10:00  | Lecture 12: Count Data          | B--144 (A5) | Link Slides |
 | Thu  | Nov 25 | 10:15--11:45 | Lab 12 (Oliver)                 | C--108 (A5) |             |
 | Fri  | Nov 26 |              |                                 |             |             |
 | Sat  | Nov 27 |              |                                 |             |             |
@@ -115,7 +115,7 @@ Effects via the Simulation Method|             | Link Slides |
 | Tue  | Nov 30 | 17:15--18:45 | Lab 12 (David)                  | C--108 (A5) |             |
 |      |        |              | Distribution HW 10              |             |             |
 |      |        | --23:59      | Deadline HW 9                   |             |             |
-| Wed  | Dec 1  | 8:30--10:00  | Lecture 13: Semester Wrap-up|             | Link Slides |
+| Wed  | Dec 1  | 8:30--10:00  | Lecture 13: Semester Wrap-up    | B--144 (A5) | Link Slides |
 | Thu  | Dec 2  | 10:15--11:45 | Lab 13 (Oliver)                 | C--108 (A5) |             |
 | Fri  | Dec 3  |              |                                 |             |             |
 | Sat  | Dec 4  |              |                                 |             |             |
