@@ -24,4 +24,6 @@ user_groups:
 
 ---
 
- Bla-bla-bla
+I am a Research Associate at the Mannheim Centre for European Social Research and Ph.D. Candidate in Political Science at the Graduate School of Economic and Social Sciences. I hold a Bachelor’s degree in Political Science and Sociology, and a Master’s degree in Political Science both from the University of Mannheim. I research in the field of judicial politics, specifically on interdependent strategies of judicial and political actors. Making use of text as data for statistical modeling is at the core of my methodological interests.
+
+As a part of the C4 project of the Collaborative Research Center SFB 884 "Political Economy of Reforms", I scale the German Federal Constitutional Court’s decisions based on textual features, utilizing Bayesian ideal point estimation. In consequence, I derive the Court’s positions towards political reform.
