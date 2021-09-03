@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Organization"
-subtitle = "Lectures take place on Wednesdays, labs are on Thursdays and Mondays and Tuesdays of the following week. Homework assignments are assigned and collected on Tuesdays, and you have one week to complete them. Office hours are on Mondays (lab) and Wednesdays (lecture)."
+subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thursdays (same week) and Mondays and Tuesdays (following week). Homework assignments are assigned and collected on Tuesdays, and you have one week to complete them. Office hours are online, on Mondays (lab) and Tuesdays (lecture)."
 
 # Showcase important course info at a glance.
 # 
@@ -18,25 +18,25 @@ subtitle = "Lectures take place on Wednesdays, labs are on Thursdays and Mondays
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Lecture"
-  description = "Wednesday 8:30-10:00"  
+  description = "Wednesdays 8:30-10:00"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Labs"
-  description = "Thursday (Oliver) 10:15-11:45, Monday (Viktoriia) 12:00-13:30, and Tuesday (David) 17:15-18:45"  
+  description = "Thursday (Oliver) 10:15-11:45 <br>Monday (Viktoriia) 12:00-13:30 <br>Tuesday (David) 17:15-18:45"  
 
   
 [[feature]]
   icon = "comments"
   icon_pack = "far"
   name = "Office Hours"
-  description = "Thomas - Wednesday, 12:00-13:00, David, Oliver & Viktoriia - Monday, 15:30-17:00"  
+  description = "Thomas - Tuesday, 13:30-14:30 <br>David, Oliver & Viktoriia - Monday, 15:30-17:00"  
   
 [[feature]]
   icon = "keyboard"
   icon_pack = "fas"
   name = "Homework"
-  description = "Tuesdays, assigned after lab, due in one week"
+  description = "Assigned: after Tuesday lab <br>Due: Tuesday in a week, 23:59"
   
 +++

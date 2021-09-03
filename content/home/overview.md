@@ -4,8 +4,10 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear in.
 
-title = "Calendar"
+title = "Course Overview"
 +++
+
+![]()
 
 | <div style="width:50px;text-align:left">Day</div> | <div style="width:100px;text-align:left">Date</div> |<div style="width:100px;text-align:left">Time</div> | <div style="width:370px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:left">Slides</div> |
 |:-----|:-------|:-------------|:--------------------------------|:------------|:------------|

@@ -10,6 +10,6 @@ share: false
 title: Privacy Policy
 ---
 
-This website only contains publicly available content from the Introduction to Data Science course at University of Edinburgh. 
-Any materials available to only officially enrolled students are hosted on LEARN, the learning management system used at University of Edinburgh. 
+This website only contains publicly available content from the Quantitative Methods in Political Science course at University of Mannheim. 
+Any materials available to only officially enrolled students are hosted on ILIAS, the learning management system used at University of Mannheim. 
 Student work is completed and submitted as private GitHub repositories which are visible only to officially enrolled students and course organizer and tutors.

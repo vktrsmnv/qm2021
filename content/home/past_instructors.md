@@ -1,15 +1,19 @@
 ---
-widget: blank
+widget: featured
 headless: true
+active: false  # Activate this widget? true/false
+
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Past course Instructors
-subtitle:
+title: "Past Instructors"
+subtitle: "We are very thankful to the past course instructors who contributed to developing the material for this course (and taught some of us)."
 weight: 91  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+  view: 3
 ---
+
 
 + [Marcel Neunhoeffer](https://www.marcel-neunhoeffer.com)
 + [Denis Cohen](https://denis-cohen.github.io)

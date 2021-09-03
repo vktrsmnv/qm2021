@@ -1,6 +1,7 @@
 ---
 
 name: David Grundmanns
+role: Tuesday Lab's Tutor
 organizations:
 - name: University of Edinburgh 
   url: ""
@@ -19,7 +20,7 @@ weight: 20
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Course team
+- ""
 
 ---
 
