@@ -3,7 +3,7 @@ authors:
 - admin
 date: "2021-09-03T00:00:00Z"
 draft: false
-featured: false
+featured: true
 lastmod: "2021-09-02T00:00:00Z"
 projects: []
 subtitle: ''
