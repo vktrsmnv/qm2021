@@ -3,7 +3,7 @@
 name: David Grundmanns
 role: Tuesday Lab's Tutor
 organizations:
-- name: University of Edinburgh 
+- name: University of Mannheim 
   url: ""
 social:
 - icon: envelope
