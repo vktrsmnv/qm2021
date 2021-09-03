@@ -18,7 +18,7 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Lecture"
-  description = "Wednesdays 8:30-10:00"  
+  description = "Wednesday (Thomas) 8:30-10:00"  
   
 [[feature]]
   icon = "laptop-code"
@@ -30,13 +30,20 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
 [[feature]]
   icon = "comments"
   icon_pack = "far"
-  name = "Office Hours"
-  description = "Thomas - Tuesday, 13:30-14:30 <br>David, Oliver & Viktoriia - Monday, 15:30-17:00"  
+  name = "Online Office Hours"
+  description = "Thomas: Tuesday 13:30-14:30 <br>David, Oliver & Viktoriia: Monday 15:30-17:00"  
   
 [[feature]]
   icon = "keyboard"
   icon_pack = "fas"
-  name = "Homework"
-  description = "Assigned: after Tuesday lab <br>Due: Tuesday in a week, 23:59"
+  name = "Weekly Problem Sets"
+  description = "Assigned after Tuesday lab <br>Due Tuesday in a week, 23:59 <br> Weeks 1-2: <i class='fas fa-user'></i> Weeks 3-13: <i class='fas fa-users'></i>"
+
+[[feature]]
+  icon = "star"
+  icon_pack = "fas"
+  name = "Grading"
+  description = "In-class Midterm - 50% <br>Data Essay - 50%<br>Problem Sets - Pass/Fail"  
+
   
 +++

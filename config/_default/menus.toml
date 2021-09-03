@@ -7,38 +7,32 @@
   name = "Organization"
   url = "#organization"
   weight = 20
-  
 
 [[main]]
-  name = "Schedule"
+  name = "Material"
   url = "/post/"
-  weight = 40
+  weight = 30
 
-[[main]]
-  name = "Syllabus"
-  url = "/syllabus"
-  weight = 50
-  
-[[main]]
-  name = "Calendar"
-  url = "#calendar"
-  weight = 50
 
 [[main]]
   name = "Help"
-  url = "#support_infrastructure"
-  weight = 60
-
-
-[[main]]
-  name = "Resources"
-  url = "#resources"
-  weight = 80
+  url = "#help"
+  weight = 40
   
 [[main]]
   name = "People"
   url = "#people"
-  weight = 90
+  weight = 50
+
+[[main]]
+  name = "Syllabus"
+  url = "/syllabus"
+  weight = 60
+  
+[[main]]
+  name = "Roadmap"
+  url = "/roadmap"
+  weight = 70
   
 [[main]]
   name = "<i class='fab fa-github'></i>"

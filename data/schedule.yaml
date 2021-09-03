@@ -1,0 +1,103 @@
+lessons:
+  - title: '<span class="fake-header-table"> </span>'
+    header: True
+
+
+  - title: 'Getting Started '
+    session: 1
+    date: 'Week 0'
+    slides: "00-week/QM2021_welcome_handout.pdf"
+    # lab: "01-lab" #<i class="fas fa-house-user"></i>
+    readings: "00-week" 
+
+    
+  - title: 'Introduction. Visualizing Data'
+    session: 2
+    date: "Week 1"
+    readings: "01-week" 
+    # slides: "01-week/QM2021_lecture1_handout.pdf"
+    # lab: "02-lab"
+
+  - title: 'Fundamentals of Probability'
+    session: 3
+    date: "Week 2"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    
+  - title: 'Sampling and Statistical Inference'
+    session: 4
+    date: "Week 3"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+
+  - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Linear Regression** </span>'
+    header: True
+    
+  - title: 'Linear Regression: Basics & Hypothesis Testing'
+    session: 5
+    date: "Week 4"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+  # - title: '<span class="fake-header-table">Simulations with Linear Model</span>'
+  #   header: True
+
+
+
+  - title: 'Linear Regression: Statistical Control & Causality'
+    session: 6
+    date: "Week 5"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    
+  - title: 'Linear Regression: Dummies and Interactions'
+    session: 7
+    date: "Week 6"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    
+  - title: 'Linear Regression: Interpreting Substantive Effects via the Simulation Method'
+    session: 8
+    date: "Week 7"
+    # material: "04-content"
+    # lab: "04-lab"
+    # assignment: 
+    
+  - title: "Linear Regression: Diagnostics"
+    session: 9
+    date: "Week 8"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    
+  - title: "Midterm"
+    session: 10
+    date: "Week 9"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+
+  - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Non-linear Probability Models** </span>'
+    header: True
+    
+  - title: "The Likelihood Theory of Statistical Inference"
+    session: 11
+    date: "Week 10"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    
+  - title: "Binary Data"
+    session: 12
+    date: "Week 11"
+    # readings: "02-week"
+    # slides: "02-week/QM2021_lecture2_handout.pdf"    
+    
+  - title: 'Count Data'
+    session: 13
+    date: "Week 12"
+    
+  - title: 'Semester Wrap-up'
+    session: 14
+    date: "Week 13"
+    
+  - title: 'Data Essay Week'
+    session: 15
+    date: "Week 14"
+

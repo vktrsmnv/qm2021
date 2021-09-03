@@ -46,11 +46,11 @@ We will not use a single textbook for this course. Selected readings are availab
 
 For all calculations, we will support and use the open-source statistical programming language R. It is particularly suited for carrying out state-of-the-art computer-based simulations and data exercises. It can also be used to generate really nice publication-quality visualizations and runs under a wide array of operating systems. R can be downloaded for free at <http://www.r-project.org/>. Learning R might seem a bit challenging at first, but you will realize that it is incredibly powerful. A readable introduction is given by John Fox's (2002) *An R and S-Plus companion to Applied Regression* from Sage. Students with a Stata background can also look at *R for Stata Users* by Robert A. Muenchen and Joseph M. Hilbe (2010).
 
-A very good graphical user interface for R (which we will also use during the lab sessions) is RStudio. In recent years a growing number of features have been added to this graphical user interface, which makes it the preferred choice for learning R -- especially among beginners. It is cross-platform and open-source. RStudio can be downloaded for free at <http://www.rstudio.com/>. A style guide to make your code easier to read, share, and verify can be found at <http://adv-r.had.co.nz/Style.html>. \\
+A very good graphical user interface for R (which we will also use during the lab sessions) is RStudio. In recent years a growing number of features have been added to this graphical user interface, which makes it the preferred choice for learning R -- especially among beginners. It is cross-platform and open-source. RStudio can be downloaded for free at <http://www.rstudio.com/>. A style guide to make your code easier to read, share, and verify can be found at <http://adv-r.had.co.nz/Style.html>.
 
-To facilitate an efficient workflow, we will integrate [GitHub](https://github.com) into the course. Git is a version control system that makes it easy to track changes and work on code collaboratively. GitHub is a hosting service for git. You can think of it as a public Dropbox for code on steroids. We will use it to distribute code and assignments to you. And you will use it to keep track of your code and collaborate in teams. You can find the course on GitHub \\href{<https://github.com/uni-mannheim-qm-2021>}{here}.\\
+To facilitate an efficient workflow, we will integrate [GitHub](https://github.com) into the course. Git is a version control system that makes it easy to track changes and work on code collaboratively. GitHub is a hosting service for git. You can think of it as a public Dropbox for code on steroids. We will use it to distribute code and assignments to you. And you will use it to keep track of your code and collaborate in teams. You can find the course on GitHub [here](https://github.com/uni-mannheim-qm-2021). 
 
-To get started with R, RStudio and git, please follow the instructions \\href{<https://github.com/uni-mannheim-qm-2021/week00_getting_started>}{here}.\\
+To get started with `R`, RStudio and `git`, please follow the instructions [here](/post/00-week/).
 
 The lab sessions will be devoted to learning the various commands in R and applying the statistical models from the lecture to selected political science data sets. The data sets that we will use cover the major fields in political science.
 
@@ -89,7 +89,7 @@ Homework assignments for Weeks 1 & 2 must be handed in individually. Homework as
 
 ## Communication 
 
-We are aware that the current situation complicates communication and group work. To make communication for the course members and among group members as easy as possible, we set up a Slack workspace. Click on [here](https://join.slack.com/t/qm2021/shared_invite/zt-v2i2q5x3-SImZ5nd5SyVzPAcLNi~0uw) to join the slack-channel. Note that you can only *sign-in with your @mail.uni-mannheim.de address*. 
+We are aware that the current situation complicates communication and group work. To make communication for the course members and among group members as easy as possible, we set up a Slack workspace. Click on [here](https://join.slack.com/t/qm2021/shared_invite/zt-v2i2q5x3-SImZ5nd5SyVzPAcLNi~0uw) to join the slack-channel. Please only *sign-in with your @mail.uni-mannheim.de address*. 
 
 
 
