@@ -8,22 +8,27 @@ title: "Roadmap"
 layout: docs
 ---
 
-<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+Here you can find all the material you need for the class - the lecture slides, links to lab repos on Github, readings for the week. 
 
-
-<p>Here you can find all the material you need for the class - the lecture slides, links to lab repos on Github, readings for the week.</p>
 <!-- Every topic has four important sections. You should read about the details for each using the main menu at the top of this webpage. -->
+
 <!-- - [**Material**](/material/) (<i class="fas fa-book-reader"></i>): This page contains the readings, slides, and recorded lectures for the topic. Read and watch these first by our Friday session.   -->
 <!-- - [**Lab**](/content/) (<i class="fas fa-laptop-code"></i>):  This page includes the code-part of our Friday sessions. It also contains the files you will need for our Friday sessions - the code and the data. Make sure to have all the files uploaded into Rstudio by the time we start on Friday.  -->
-<!-- <!-- - [**Datacamp**](/datacamp/) (<i class="fas fa-laptop-house"></i>): This page contains the info about the assignments that you will need to do on Datacamp this week. These are highly recommended but not included in the course requirements (yet you get bonus points for completing the tasks).  -->
+<!-- <!-- - [**Datacamp**](/datacamp/) (<i class="fas fa-laptop-house"></i>): This page contains the info about the assignments that you will need to do on Datacamp this week. These are highly recommended but not included in the course requirements (yet you get bonus points for completing the tasks).  --> 
 <!-- - [**Homework**](/assignments/) (<i class="fas fa-user-friends"></i>): This page contains the guidelines for homework assignments. During the semester, you will have 5 homework problem sets designed to practice your skills in programming, analysis, and technical writing related to PolSci topics. You can do and submit these assignments in groups of 2-3 students (and I encourage you to!). You will have at least a week to complete the problem sets. **Homework assignments are due by 22:00 on the day they're listed.**  -->
 <!-- - [**Essay**](/assignments/) (<i class="fas fa-user"></i>): This page contains the guidelines for the essay you will need to write during the class. This is an individual assignment and no collaboration is permitted.  **Essay is due by 22:00 on the day listed.** -->
 <!-- - [**Final Project**](/assignments/) (<i class="fas fa-star"></i>): You final project will include tasks on data preparation, modeling, and visualization. The guidelines will be live on June 18, 2021.  -->
+
+
 <!-- :::note -->
 <!-- **tl;dr**: You should follow this general process each day: -->
+
 <!-- - Do everything on the content (<i class="fas fa-book-reader"></i>) page -->
 <!-- - Work through the lesson (<i class="fas fa-chalkboard-teacher"></i>) page -->
 <!-- - Complete the assignment (<i class="fas fa-pencil-ruler"></i>) while referencing the example (<i class="fas fa-laptop-code"></i>) -->
 <!-- ::: -->
-<hr />
-<p>{{% schedule %}}</p>
+
+---
+
+
+`r blogdown::shortcode("schedule")`
