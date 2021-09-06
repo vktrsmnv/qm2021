@@ -6,7 +6,7 @@ lessons:
   - title: 'Getting Started '
     session: 1
     date: 'Week 0'
-    # slides: "00-week/QM2021_welcome_handout.pdf"
+    slides: "00-week/QM2021_lab00_presentation_handout.pdf"
     # lab: "01-lab" #<i class="fas fa-house-user"></i>
     readings: "00-week" 
 
@@ -14,7 +14,7 @@ lessons:
   - title: 'Introduction. Visualizing Data'
     session: 2
     date: "Week 1"
-    # readings: "01-week" 
+    readings: "01-week" 
     # slides: "01-week/QM2021_lecture1_handout.pdf"
     # lab: "02-lab"
 
