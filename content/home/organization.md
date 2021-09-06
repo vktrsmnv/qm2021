@@ -43,7 +43,7 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   icon = "star"
   icon_pack = "fas"
   name = "Grading"
-  description = "In-class Midterm - 50% <br>Data Essay - 50%<br>Problem Sets - Pass/Fail"  
+  description = "Midterm - 50% <br>Data Essay - 50%<br>Problem Sets - Pass/Fail"  
 
 [[feature]]
   icon = "scroll"
