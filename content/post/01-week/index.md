@@ -9,6 +9,10 @@ projects: []
 subtitle: ''
 title: 'Week 01: Introduction. Visualizing Data'
 summary: This week you will learn about the basics of data analysis and visualization. We will talk about the different kinds of variables, how to summarize them numerically, and cover the best ways to present them graphically.  
+layout: docs
+menu:
+  post:
+    weight: 1
 ---
 
 ### Schedule of the Week (Sep 8 -- Sep 14)

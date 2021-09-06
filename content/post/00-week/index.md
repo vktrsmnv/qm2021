@@ -3,14 +3,14 @@ authors:
 - admin
 date: "2021-09-03T00:00:00Z"
 draft: false
-featured: true
+featured: false
 lastmod: "2021-09-02T00:00:00Z"
 projects: []
 subtitle: ''
 summary: 
 title: 'Week 00: Getting started'
 toc: true
-type: docs
+# type: docs
 layout: docs
 menu:
   post:

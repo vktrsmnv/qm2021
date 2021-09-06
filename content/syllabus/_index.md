@@ -9,7 +9,7 @@ type: docs
 layout: docs
 ---
 
-[**Click here**](sta199-fa21-003-syllabus.pdf) **to download a PDF copy of the syllabus.**
+[**Click here**](QM2021_syllabus.pdf) **to download a PDF copy of the syllabus.**
 
 ## Course Registration
 

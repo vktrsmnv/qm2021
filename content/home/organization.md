@@ -45,5 +45,12 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   name = "Grading"
   description = "In-class Midterm - 50% <br>Data Essay - 50%<br>Problem Sets - Pass/Fail"  
 
+[[feature]]
+  icon = "scroll"
+  icon_pack = "fas"
+  name = "Syllabus"
+  description = "For more details, check out the [Syllabus](/syllabus), and [Roadmap](/roadmap) for the course material overview"  
+
+  
   
 +++

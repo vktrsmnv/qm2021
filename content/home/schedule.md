@@ -21,7 +21,7 @@ subtitle = "Here you can find the info you need to prepare for lecture and labs.
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
