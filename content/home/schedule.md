@@ -12,10 +12,10 @@ subtitle = "Here you can find the info you need to prepare for lecture and labs.
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "docs"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0

@@ -1,38 +1,40 @@
 ---
 authors:
 - admin
-date: "2021-09-07T00:00:00Z"
-draft: true
+date: "2021-09-07"
+draft: false
 featured: false
-lastmod: "2021-09-03T00:00:00Z"
+lastmod: "2021-09-06"
 projects: []
 subtitle: ''
 title: 'Week 01: Introduction. Visualizing Data'
 summary: This week you will learn about the basics of data analysis and visualization. We will talk about the different kinds of variables, how to summarize them numerically, and cover the best ways to present them graphically.  
 layout: docs
+type: docs
 menu:
   post:
-    weight: 1
+    weight: 2
+toc: true
 ---
 
-### Schedule of the Week (Sep 8 -- Sep 14)
+### Schedule of the Week 
 
-| <div style="width:50px;text-align:left">Day</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:270px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:left">Slides</div> |
-|:-----|:-------------|:--------------------------------|:------------|:------------|
-| Mon  | 12:00--13:30 | Welcome Session (online only!)  | online      | Link Slides |
-| Tue  |              |                                 |             |             |
-| Wed  | 8:30--9:00   | Lecture                         |             | Link Slides |
-| Thu  | 10:15--11:45 | Lab 1 (Oliver)                  | C--108 (A5) |             |
-| Fri  |              |                                 |             |             |
+| <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
+|:------------|:-------------|:-------------------|:------------|:----:|
+| Wed, Sep 8  | 8:30--9:00   | Lecture                         | Online | <i class="far fa-file-pdf fa-lg"></i> |
+| Thu, Sep 9  | 10:15--11:45 | Lab 1 (Oliver)                  | Online |             |
+| Mon, Sep 13 | 12:00--13:30 | Lab 1 (Viktoriia)           | Online |             |
+| Tue, Sep 14  | 17:15--18:45 | Lab 1 (David)                  | Online |             |
+| Tue, Sep 14  | 18:45 | Homework 1 Out                 | via Github |             |
 
 
 
-### Readings
+### Readings 
 
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+| <div style="width:50px"></div>  | <div style="width:130px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :page_facing_up: | [Course syllabus]() | **Required** | 
-| :open_book: | [Fox, John. 2008. Applied Regression Analysis. Chapters 1 and 3.]() | **Required** |
+| :page_facing_up: | [Course syllabus](/../../syllabus/) | **Required** | 
+| :open_book: | [Fox, John. 2008. Applied Regression Analysis. Chapters 1 and 3.](https://ilias.uni-mannheim.de/goto.php?target=file_1170244_download&client_id=ILIAS) | **Required** |
 
 
 
