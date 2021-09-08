@@ -21,10 +21,12 @@ toc: true
 
 | <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
 |:------------|:-------------|:-------------------|:------------|:----:|
-| Wed, Sep 8  | 8:30--9:00   | Lecture                         | Online | <i class="far fa-file-pdf fa-lg"></i> |
-| Thu, Sep 9  | 10:15--11:45 | Lab 1 (Oliver)                  | Online |             |
-| Mon, Sep 13 | 12:00--13:30 | Lab 1 (Viktoriia)           | Online |             |
-| Tue, Sep 14  | 17:15--18:45 | Lab 1 (David)                  | Online |             |
+| Wed, Sep 8  | 8:30--10:00   | Lecture                         | Online | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture01_handout.pdf)    [<i class="fas fa-video fa-lg"></i>](https://ilias.uni-mannheim.de/goto.php?target=file_1172905_download&client_id=ILIAS) |
+| Thu, Sep 9  | 10:15--11:45 | Lab 1 (Oliver)                  | Online |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week01_introduction)         |
+| Mon, Sep 13 | 12:00--13:30 | Lab 1 (Viktoriia)           | Online |      [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week01_introduction)        |
+|             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |             |
+| Tue, Sep 14  | 13:30--14:30 | Office Hours (Thomas)                  | Online |             |
+|  | 17:15--18:45 | Lab 1 (David)                  | Online |      [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week01_introduction)        |
 | Tue, Sep 14  | 18:45 | Homework 1 Out                 | via Github |             |
 
 

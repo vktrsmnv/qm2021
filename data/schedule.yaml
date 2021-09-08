@@ -7,7 +7,7 @@ lessons:
     session: 1
     date: 'Week 0'
     slides: "00-week/QM2021_lab00_presentation_handout.pdf"
-    # lab: "01-lab" #<i class="fas fa-house-user"></i>
+    lab: "https://github.com/uni-mannheim-qm-2021/week01_introduction" #<i class="fas fa-house-user"></i>
     readings: "00-week" 
 
     
@@ -15,13 +15,13 @@ lessons:
     session: 2
     date: "Week 1"
     readings: "01-week" 
-    # slides: "01-week/QM2021_lecture1_handout.pdf"
+    slides: "01-week/QM_lecture01_handout.pdf"
     # lab: "02-lab"
 
   - title: 'Fundamentals of Probability'
     session: 3
     date: "Week 2"
-    # readings: "02-week"
+    readings: "02-week"
     # slides: "02-week/QM2021_lecture2_handout.pdf"
     
   - title: 'Sampling and Statistical Inference'
