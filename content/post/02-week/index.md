@@ -2,19 +2,17 @@
 authors:
 - admin
 date: "2021-09-15T00:00:00Z"
-draft: true
 draft: false
 featured: false
-lastmod: "2021-09-04T00:00:00Z"
 projects: []
 subtitle: ''
-summary: 
+summary: ''
 title: 'Week 02: Fundamentals of Probability'
 layout: docs
 type: docs
 menu:
   post:
-    weight: 2
+    weight: 3
 toc: true
 ---
 

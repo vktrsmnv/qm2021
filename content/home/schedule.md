@@ -3,7 +3,7 @@
 # This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
@@ -15,13 +15,13 @@ subtitle = "Here you can find the info you need to prepare for lecture and labs.
   page_type = "docs"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "asc"
+  order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
