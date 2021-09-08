@@ -24,7 +24,6 @@ toc: true
 |:------------|:-------------|:-------------------|:------------|:----:|
 <<<<<<< HEAD
 | Wed, Sep 15  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | <i class="far fa-file-pdf fa-lg"></i>   <i class="fas fa-video fa-lg"></i> |
-=======
 | Wed, Sep 15  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | [<i class="far fa-file-pdf fa-lg"></i>]()    [<i class="fas fa-video fa-lg"></i>]() |
 >>>>>>> d2a59a51c4fa7c26842371259d90665314ddd2d8
 | Thu, Sep 16  | 10:15--11:45 | Lab 2 (Oliver)                  | TBA |             |
