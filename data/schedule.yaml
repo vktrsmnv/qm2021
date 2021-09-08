@@ -7,7 +7,7 @@ lessons:
     session: 1
     date: 'Week 0'
     slides: "00-week/QM2021_lab00_presentation_handout.pdf"
-    lab: "https://github.com/uni-mannheim-qm-2021/week01_introduction" #<i class="fas fa-house-user"></i>
+    # lab: "https://github.com/uni-mannheim-qm-2021/week01_introduction" #<i class="fas fa-house-user"></i>
     readings: "00-week" 
 
     
@@ -16,7 +16,7 @@ lessons:
     date: "Week 1"
     readings: "01-week" 
     slides: "01-week/QM_lecture01_handout.pdf"
-    # lab: "02-lab"
+    lab: "https://github.com/uni-mannheim-qm-2021/week01_introduction"
 
   - title: 'Fundamentals of Probability'
     session: 3
