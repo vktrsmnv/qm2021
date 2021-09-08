@@ -65,7 +65,7 @@ Here is how you set it all up.
 
 Otherwise, please follow these steps:
 
-1. Go to https://github.com/ <https://github.com/> and create an account.
+1. Go to https://github.com/ and create an account.
 2. Use this username: qm2021-[ILIAS-login]
 3. It would be best to use your `@mail.uni-mannheim.de` to sign up.
 
