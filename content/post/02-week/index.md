@@ -22,7 +22,7 @@ toc: true
 
 | <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
 |:------------|:-------------|:-------------------|:------------|:----:|
-| Wed, Sep 15  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture01_handout.pdf)    [<i class="fas fa-video fa-lg"></i>](https://ilias.uni-mannheim.de/goto.php?target=file_1172905_download&client_id=ILIAS) |
+| Wed, Sep 15  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | [<i class="far fa-file-pdf fa-lg"></i>]()    [<i class="fas fa-video fa-lg"></i>]() |
 | Thu, Sep 16  | 10:15--11:45 | Lab 2 (Oliver)                  | TBA |             |
 | Mon, Sep 20 | 12:00--13:30 | Lab 2 (Viktoriia)           | TBA |             |
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
