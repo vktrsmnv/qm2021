@@ -15,7 +15,7 @@ autolink = false
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 1
+email_form = 0
 +++
 
 ### Ask questions during lectures and labs
@@ -27,6 +27,7 @@ If you have a question during lecture or lab, feel free to ask it! There are lik
 The teaching team is here to help you be successful in the course. You are encouraged to attend office hours during the times posted on the home page to ask questions about the course content and assignments.  From our experience, we can best help if you come with a specific question in mind.
 
 For time management reasons, if you plan to come to *Monday (lab) office hours*, we ask you to please sign up by 17:00 on Sunday (you can use the form below), with at least one specific question you want to have answered. We'll get back to you with details. You don't need to sign up for Tuesday office hours.  
+For time management reasons, we ask you to please sign up on ILIAS by 17:00 on Sunday, with at least one specific question you want to have answered, if you want to come to Monday (lab) office hours. We'll get back to you with details. 
 
 
 ### Slack 
@@ -36,6 +37,7 @@ Students regularly run into the same issues as one another, so it's helpful to a
 ### Email
 
 If you have questions about personal matters that are not appropriate for the public space like Slack channels (e.g., illness, accommodations, etc.), please don't hesitate to email us.
+
 
 ### Sign up for Monday Office Hours
 
