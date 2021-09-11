@@ -37,5 +37,6 @@ Students regularly run into the same issues as one another, so it's helpful to a
 
 If you have questions about personal matters that are not appropriate for the public space like Slack channels (e.g., illness, accommodations, etc.), please don't hesitate to email us.
 
+
 ### Sign up for Monday Office Hours
 
