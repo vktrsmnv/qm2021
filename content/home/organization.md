@@ -18,8 +18,8 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Lecture"
-  description = "Wednesday (Thomas) 8:30-10:00"  
-  
+  description = "Wednesday (Thomas) 8:30-10:00, A5,6 B144"  
+
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
