@@ -111,8 +111,8 @@ cal$lab[cal$date == "2021-09-09"] <- "Lab 1: Oliver*"
 cal$lab[cal$date == "2021-09-13"] <- "Lab 1: Viktoriia*"
 # cal$lab[cal$date == "2021-09-14"] <- "Lab 1: David*"
 
-cal$lab[cal$day == "Tue" & cal$week > 1] <- paste0(cal$lab[cal$day == "Tue" &
-                                              cal$week > 1], "*")
+cal$lab[cal$day == "Tue" & cal$week != c(1, 9, 15)] <- paste0(cal$lab[cal$day == "Tue" &
+                                              cal$week != c(1, 9, 15)], "*")
 
 cal$welcome[cal$date == "2021-09-06"] <- "Welcome Session*"
 
