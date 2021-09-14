@@ -109,7 +109,10 @@ cal$lab <- ifelse(cal$date %in% c("2021-09-09",
 
 cal$lab[cal$date == "2021-09-09"] <- "Lab 1: Oliver*"
 cal$lab[cal$date == "2021-09-13"] <- "Lab 1: Viktoriia*"
-cal$lab[cal$date == "2021-09-14"] <- "Lab 1: David*"
+# cal$lab[cal$date == "2021-09-14"] <- "Lab 1: David*"
+
+cal$lab[cal$day == "Tue" & cal$week > 1] <- paste0(cal$lab[cal$day == "Tue" &
+                                              cal$week > 1], "*")
 
 cal$welcome[cal$date == "2021-09-06"] <- "Welcome Session*"
 
@@ -295,7 +298,8 @@ cal %>%
         ) +
   labs(title = "QM 2021: Semester Overview",
        subtitle = "   ",
-       caption = "* Office Hours, Welcome Session, Lecture 1, and Lab 1 take place online.
+       caption = "* Office Hours, Welcome Session, Lecture 1, and Lab 1 take place online. 
+       Tuesday lab takes place online for the entire semester.
        HWs are out at 18:45 and due at 23:59.") +
   coord_cartesian(xlim = c(-0.2, 1.03), clip = "off")
 
