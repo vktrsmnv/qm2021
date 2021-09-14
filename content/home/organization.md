@@ -37,7 +37,7 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   icon = "keyboard"
   icon_pack = "fas"
   name = "Weekly Problem Sets"
-  description = "Assigned after Tuesday lab <br>Due Tuesday in a week, 23:59 <br> Weeks 1-2: <i class='fas fa-user'></i> Weeks 3-13: <i class='fas fa-users'></i>"
+  description = "Assigned after Tuesday lab <br>Due Tuesday in a week, 23:59 <br> HWs 1-2: <i class='fas fa-user'></i> HWs 3-10: <i class='fas fa-users'></i>"
 
 [[feature]]
   icon = "star"
