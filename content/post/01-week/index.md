@@ -14,7 +14,7 @@ type: docs
 menu:
   post:
     weight: 2
-toc: true
+toc: false
 ---
 
 ### Schedule of the Week 

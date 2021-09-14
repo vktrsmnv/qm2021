@@ -22,7 +22,7 @@ lessons:
     session: 3
     date: "Week 2"
     readings: "02-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    slides: "02-week/QM2021_lecture2_handout.pdf"
     
   - title: 'Sampling and Statistical Inference'
     session: 4

@@ -14,7 +14,7 @@ featured: false
 lastmod: "2021-09-01T00:00:00Z"
 ---
 
-Here you can find a tentative course schedule. There is a more detailed overview in the [Roadmap](/roadmap/) part of the website, which contains links to all the resources you need. 
+Here you can find a tentative course schedule. There is a more detailed overview in the [Roadmap](/roadmap) part of the website, which contains links to all the resources you need. 
 
 You can download the *iCalendar* file for the main events: [<i class="fas fa-file-download"></i>](syllabus/overview/QM2021.ics). 
 
