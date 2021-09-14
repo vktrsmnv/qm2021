@@ -16,7 +16,8 @@ lessons:
     date: "Week 1"
     readings: "01-week" 
     slides: "01-week/QM_lecture01_handout.pdf"
-    lab: "https://github.com/uni-mannheim-qm-2021/"
+    lab: "https://github.com/uni-mannheim-qm-2021"
+    homework: "https://github.com/uni-mannheim-qm-2021"
 
   - title: 'Fundamentals of Probability'
     session: 3
