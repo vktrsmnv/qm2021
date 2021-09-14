@@ -53,10 +53,6 @@ theme_set(
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE,  fig.width = 10, fig.height = 6, fig.asp=0.9}
 
-if (file.exists("calendar.RDS")){
-  cal <- readRDS("calendar.RDS")
-}else{
-  
 cal <- tibble(
   date = seq(ymd(20210906), ymd(20211219), by = 1),
   day = wday(
@@ -111,8 +107,7 @@ cal$lab[cal$date == "2021-09-09"] <- "Lab 1: Oliver*"
 cal$lab[cal$date == "2021-09-13"] <- "Lab 1: Viktoriia*"
 # cal$lab[cal$date == "2021-09-14"] <- "Lab 1: David*"
 
-cal$lab[cal$day == "Tue" & cal$week != c(1, 9, 15)] <- paste0(cal$lab[cal$day == "Tue" &
-                                              cal$week != c(1, 9, 15)], "*")
+cal$lab[cal$day == "Tue" & !cal$week %in% c(1, 9, 15)] <- paste0(cal$lab[cal$day == "Tue" &                                              !cal$week %in% c(1, 9, 15)], "*")
 
 cal$welcome[cal$date == "2021-09-06"] <- "Welcome Session*"
 
@@ -161,8 +156,6 @@ cal$midterm <- ifelse(cal$date %in% ymd("2021-11-03"),
   T,
   F
 )
-saveRDS(cal, "calendar.RDS")
-}
 ```
 
 
