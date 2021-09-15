@@ -159,7 +159,7 @@ cal$midterm <- ifelse(cal$date %in% ymd("2021-11-03"),
 ```
 
 
-```{r echo=FALSE, warning=FALSE, message=FALSE,  fig.asp=1, out.width="100%"}
+```{r QM2021-course-calendar, echo=FALSE, warning=FALSE, message=FALSE,  fig.asp=1, out.width="100%"}
 
 
 cal %>%
