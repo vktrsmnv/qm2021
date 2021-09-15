@@ -24,6 +24,7 @@ lessons:
     date: "Week 2"
     readings: "02-week"
     slides: "02-week/QM_lecture02_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week02_probability"
     
   - title: 'Sampling and Statistical Inference'
     session: 4
