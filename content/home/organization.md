@@ -51,6 +51,4 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   name = "Syllabus"
   description = "For more details, check out the [Syllabus](/syllabus), and [Roadmap](/roadmap) for the course material overview"  
 
-  
-  
 +++

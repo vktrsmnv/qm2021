@@ -89,7 +89,7 @@ Homework assignments for Weeks 1 & 2 must be handed in individually. Homework as
 
 ## Communication 
 
-We are aware that the current situation complicates communication and group work. To make communication for the course members and among group members as easy as possible, we set up a Slack workspace. Click on [here](https://join.slack.com/t/qm2021/shared_invite/zt-v2i2q5x3-SImZ5nd5SyVzPAcLNi~0uw) to join the slack-channel. Please only *sign-in with your @mail.uni-mannheim.de address*. 
+We are aware that the current situation complicates communication and group work. To make communication for the course members and among group members as easy as possible, we set up a Slack workspace. Check our ILIAS group for an invitation link. Please only *sign-in with your @mail.uni-mannheim.de address*. 
 
 
 
