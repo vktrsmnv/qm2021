@@ -21,7 +21,7 @@ So you pushed your files into Github and everything was fine. And then you get a
 
 > _This message is **not** an indicator that your push was unsuccessful_. 
 
-### Problem
+## Problem
 
 This mail is the result of an automated check that we set up for your homework files. It ensures that the files you upload are reproducible and self-contained, i.e., that your results can be replicated by anyone using only the material in your repository. This check ensures that we can generate a PDF from your `Rmd` file (or any other file type that is specified as `output` in the YAML (first part with your name, document title, etc.) of the `Rmd`). 
 
@@ -30,11 +30,11 @@ This usually is an indicator that everything is working in the code - data files
 This message is not an error, your push still worked. It's an early feedback for you to make sure the file works properly.
 
 
-### How to Fix It?
+## How to Fix It?
 
 There could be various reasons for why the check failed and the error message there will usually tell you what the problem is:
 
-### Step 1: Try to Knit on Your Laptop
+## Step 1: Try to Knit on Your Laptop
 
 Before pushing the files, try to *Knit* a file on your laptop. If you cannot get a PDF or HTML from your `Rmd`, here are a few common problems:
 
@@ -43,7 +43,7 @@ Before pushing the files, try to *Knit* a file on your laptop. If you cannot get
 - There is a typo in the R command. Try running each chunk one after another to see where the issue is exactly. 
 - Open parentheses somewhere. Try running each chunk one after another to see where the problem is exactly. 
 
-### Step 2: Ensure Reproducibility 
+## Step 2: Ensure Reproducibility 
 
 What if you *could* get a PDF or HTML from your `Rmd` on your laptop but the check is nevertheless failed? This usually means that something that was on your local machine was missing on the remote one that attempted to generate the PDF/HTML. 
 
