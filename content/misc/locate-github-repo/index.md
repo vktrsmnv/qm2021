@@ -42,16 +42,15 @@ You never accepted an invitation to join the GitHub organization for this course
 1. Make sure you're signed in.
 2. Go to [github.com/uni-mannheim-qm-2021](https://github.com/uni-mannheim-qm-2021).
 3. You should see a banner on top saying that we invited you to the organization, click to view the invitation.
+4. In the next window, click the *Join* button.
 
 ![](org-invite.png)
-
-4. In the next window, click the *Join* button.
 
 Once you've joined make sure you go back to [github.com/uni-mannheim-qm-2021](https://github.com/uni-mannheim-qm-2021) and you should be able to locate your repo here.
 
 ## You were never invited to the GitHub organization
 
-We have asked you create a Github account in the format `qm2021-[ILIASlogin]` or tell us your username if your already have an account. If your account name does not follow the standard pattern of `qm2021-[ILIASlogin]` and you never told us your user name, we could not have invited you to the organization. In this case, let us know your user name as soon as possible! 
+We have asked you to create a Github account with the name in the format `qm2021-[ILIASlogin]` or to tell us your username if you already have an account. If your account name does not follow the pattern of `qm2021-[ILIASlogin]` and you never told us your user name, we could not have invited you to the organization. In this case, let us know your Github user name as soon as possible! 
 
 **Note:** If you're already a member of the GitHub organization and you confirmed that you've signed in to GitHub, but you still cannot find your repo, send your lab tutor an email or a message on Slack. Either we've never created a repo for you (small chance, as we do invites and repo creations at the same time) or there is a glitch, and we can help with either of these issues. In your message, please include your GitHub username. Once we resolve it for the first assignment, we don't anticipate another glitch again in the future.
 
