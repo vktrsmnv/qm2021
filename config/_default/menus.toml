@@ -33,6 +33,11 @@
   name = "Roadmap"
   url = "/roadmap"
   weight = 70
+
+[[main]]
+  name = "Misc"
+  url = "/misc"
+  weight = 80  
   
 [[main]]
   name = "<i class='fab fa-github'></i>"
