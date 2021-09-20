@@ -6,12 +6,9 @@ projects: []
 subtitle: ''
 title: 'Authenticating with your Github Credentials in R'
 summary: ""  
-toc: true
 menu:
   misc:
     weight: 2
-type: posts
-layout: docs
 ---
 
 ## Problem

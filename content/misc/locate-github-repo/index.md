@@ -6,12 +6,9 @@ projects: []
 subtitle: ''
 title: 'Locate Repo on Github'
 summary: ""  
-toc: true
 menu:
   misc:
     weight: 1
-type: posts
-layout: docs
 ---
 
 ## Problem

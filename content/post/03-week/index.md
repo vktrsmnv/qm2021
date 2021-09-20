@@ -6,7 +6,7 @@ draft: false
 featured: false
 projects: []
 subtitle: ''
-summary: ''
+summary: 'Here you can find the overview of the week and the readings. This week is all about uncertainty from sampling and confidence intervals. '
 title: 'Week 03: Sampling and Statistical Inference'
 layout: docs
 type: docs

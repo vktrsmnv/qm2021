@@ -8,14 +8,12 @@ projects: []
 subtitle: ''
 title: 'Check Repo: Run failed'
 summary: ""  
-toc: true
 menu:
   misc:
     weight: 2
 toc: true
-type: posts
-layout: docs
 ---
+
 
 So you pushed your files into Github and everything was fine. And then you get an email saying *Check Repo: Run failed* (or something along these lines). 
 
