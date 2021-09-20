@@ -16,7 +16,7 @@ lastmod: "2021-09-01T00:00:00Z"
 
 Here you can find a tentative course schedule. There is a more detailed overview in the [Roadmap](/roadmap) part of the website, which contains links to all the resources you need. 
 
-You can download the *iCalendar* file for the main events: [<i class="fas fa-file-download"></i>](QM2021.ics). 
+<!-- You can download the *iCalendar* file for the main events: [<i class="fas fa-file-download"></i>](QM2021.ics).  -->
 
 <!-- The figure below is a visual summary of the tentative course schedule. The flow of topics for each week might change slightly depending on how quickly / slowly it feels right to progress through them. However the deadlines for assignments will not change barring unexpected circumstances, which, unfortunately, is not super unlikely this semester! If deadlines need to be adjusted due to COVID related reasons, they will be pushed to a later date and never pulled up to an earlier date. If it becomes necessary to make such adjustments, I will try my best to avoid collision with other previously scheduled deadlines but this might be difficult to ensure. -->
 
@@ -130,6 +130,10 @@ cal$OH[cal$day == "Tue"] <- "Lecture"
 cal$OH[cal$date == "2021-09-06"] <- ""
 cal$OH[cal$date == "2021-09-07"] <- ""
 cal$OH[cal$date == "2021-11-01"] <- ""
+
+cal$OH[cal$day == "Thu" &
+         cal$date > "2021-09-21" &
+         cal$date < "2021-12-15"] <- "Lab"
 
 # create HWs
 cal$hw_due <- ""
