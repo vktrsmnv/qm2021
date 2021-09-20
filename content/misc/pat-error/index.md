@@ -10,7 +10,7 @@ toc: true
 menu:
   misc:
     weight: 2
-type: docs
+type: posts
 layout: docs
 ---
 

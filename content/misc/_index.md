@@ -2,7 +2,7 @@
 title: Miscellaneous
 slug: misc
 toc: false
-type: docs
+type: posts
 layout: docs
 ---
 

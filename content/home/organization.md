@@ -31,7 +31,7 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   icon = "comments"
   icon_pack = "far"
   name = "Online Office Hours"
-  description = "Thomas: Tuesday 13:30-14:30 <br>David, Oliver & Viktoriia: Monday 15:30-17:00"  
+  description = "Thomas: Tuesday 13:30-14:30 <br>David, Oliver & Viktoriia: Monday 15:30-17:00 &<br>Thursday 15:30-16:30"  
   
 [[feature]]
   icon = "keyboard"
