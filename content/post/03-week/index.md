@@ -23,7 +23,10 @@ toc: false
 |:------------|:-------------|:-------------------|:------------|:----:|
 | Wed, Sep 22  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture03_handout.pdf)   |
 | Thu, Sep 23  | 10:15--11:45 | Lab 2 (Oliver)                  | A5,6 C-108 |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week03_inference)          |
+<<<<<<< HEAD
 |             | 15:30--16:30 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
+=======
+>>>>>>> d4395f2b60942e528c2590cb4a8051d4d2abd40d
 | Mon, Sep 27 | 12:00--13:30 | Lab 2 (Viktoriia)           | A5,6 C-108 |       [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week03_inference)       |
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
 | Tue, Sep 28  | 13:30--14:30 | Office Hours (Lecture)                  | Online |             |
@@ -37,6 +40,7 @@ toc: false
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
 | :open_book: | [Jeffrey M. Wooldridge. 2012. Introductory Econometrics: A Modern Approach. Appendix C.](https://ilias.uni-mannheim.de/goto.php?target=file_1172034_download&client_id=ILIAS) | **Required** <br>*Focus on sections<br>C1, C5 and C6* |
+
 
 
 
