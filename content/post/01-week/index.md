@@ -14,7 +14,7 @@ type: docs
 menu:
   post:
     weight: 2
-toc: true
+toc: false
 ---
 
 ### Schedule of the Week 
@@ -22,12 +22,12 @@ toc: true
 | <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
 |:------------|:-------------|:-------------------|:------------|:----:|
 | Wed, Sep 8  | 8:30--10:00   | Lecture                         | Online | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture01_handout.pdf)    [<i class="fas fa-video fa-lg"></i>](https://ilias.uni-mannheim.de/goto.php?target=file_1172905_download&client_id=ILIAS) |
-| Thu, Sep 9  | 10:15--11:45 | Lab 1 (Oliver)                  | Online |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week01_introduction)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm2021.shinyapps.io/qm2021_week01_oliver)        |
-| Mon, Sep 13 | 12:00--13:30 | Lab 1 (Viktoriia)           | Online |      [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week01_introduction) [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm2021.shinyapps.io/qm2021_week01_viktoriia)       |
+| Thu, Sep 9  | 10:15--11:45 | Lab 1 (Oliver)                  | Online |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm2021.shinyapps.io/qm2021_week01_oliver)        |
+| Mon, Sep 13 | 12:00--13:30 | Lab 1 (Viktoriia)           | Online |      [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021) [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm2021.shinyapps.io/qm2021_week01_viktoriia)       |
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |             |
 | Tue, Sep 14  | 13:30--14:30 | Office Hours (Lecture)                  | Online |             |
-|  | 17:15--18:45 | Lab 1 (David)                  | Online |      [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week01_introduction) [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm2021.shinyapps.io/qm2021_week01_david)        |
-| Tue, Sep 14  | 18:45 | Homework 1 Out                 | via Github |             |
+|  | 17:15--18:45 | Lab 1 (David)                  | Online |      [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021) [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm2021.shinyapps.io/qm2021_week01_david)        |
+| Tue, Sep 14  | 18:45 | Homework 1 Out                 | |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021)         |
 
 
 

@@ -18,26 +18,26 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Lecture"
-  description = "Wednesday (Thomas) 8:30-10:00, A5,6 B144"  
-  
+  description = "Wednesday (Thomas) 8:30-10:00<br>A5,6 B144"  
+
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Labs"
-  description = "Thursday (Oliver) 10:15-11:45 <br>Monday (Viktoriia) 12:00-13:30 <br>Tuesday (David) 17:15-18:45"  
+  description = "Thursday (Oliver) 10:15-11:45 in A5,6 C-108 <br>Monday (Viktoriia) 12:00-13:30 in A5,6 C-108<br>Tuesday (David) 17:15-18:45 online"  
 
   
 [[feature]]
   icon = "comments"
   icon_pack = "far"
   name = "Online Office Hours"
-  description = "Thomas: Tuesday 13:30-14:30 <br>David, Oliver & Viktoriia: Monday 15:30-17:00"  
+  description = "Thomas: Tuesday 13:30-14:30 <br>David, Oliver & Viktoriia: Monday 15:30-17:00 &<br>Thursday 15:30-16:30"  
   
 [[feature]]
   icon = "keyboard"
   icon_pack = "fas"
   name = "Weekly Problem Sets"
-  description = "Assigned after Tuesday lab <br>Due Tuesday in a week, 23:59 <br> Weeks 1-2: <i class='fas fa-user'></i> Weeks 3-13: <i class='fas fa-users'></i>"
+  description = "Assigned after Tuesday lab <br>Due Tuesday in a week, 23:59 <br> HWs 1-2: <i class='fas fa-user'></i> HWs 3-10: <i class='fas fa-users'></i>"
 
 [[feature]]
   icon = "star"
@@ -51,6 +51,4 @@ subtitle = "Lectures take place on Wednesdays, and corresponding labs are on Thu
   name = "Syllabus"
   description = "For more details, check out the [Syllabus](/syllabus), and [Roadmap](/roadmap) for the course material overview"  
 
-  
-  
 +++

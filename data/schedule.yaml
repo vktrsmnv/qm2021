@@ -16,19 +16,23 @@ lessons:
     date: "Week 1"
     readings: "01-week" 
     slides: "01-week/QM_lecture01_handout.pdf"
-    lab: "https://github.com/uni-mannheim-qm-2021/"
+    lab: "https://github.com/uni-mannheim-qm-2021"
+    homework: "https://github.com/uni-mannheim-qm-2021"
 
   - title: 'Fundamentals of Probability'
     session: 3
     date: "Week 2"
     readings: "02-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    slides: "02-week/QM_lecture02_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week02_probability"
     
   - title: 'Sampling and Statistical Inference'
     session: 4
     date: "Week 3"
-    # readings: "02-week"
+    readings: "03-week"
     # slides: "02-week/QM2021_lecture2_handout.pdf"
+    # lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
+
 
   - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Linear Regression** </span>'
     header: True
