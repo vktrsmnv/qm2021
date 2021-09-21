@@ -36,6 +36,5 @@ toc: true
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
 | :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.](https://ilias.uni-mannheim.de/goto.php?target=file_1172021_download&client_id=ILIAS) | **Required** |
-
-
+| :open_book: | [RMarkdown Cheatsheet](rmarkdown-2.0.pdf) | **Optional** |
 
