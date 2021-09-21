@@ -23,7 +23,7 @@ So you pushed your files into Github and everything was fine. And then you get a
 
 This mail is the result of an automated check that we set up for your homework files. It ensures that the files you upload are reproducible and self-contained, i.e., that your results can be replicated by anyone using only the material in your repository. This check ensures that we can generate a PDF from your `Rmd` file (or any other file type that is specified as `output` in the YAML (first part with your name, document title, etc.) of the `Rmd`). 
 
-This usually is an indicator that everything is working in the code - data files are present, there are no typos in commands, etc. 
+If we are able to generate the file, this usually is an indicator that everything is working in the code - data files are present, there are no typos in commands, etc. 
 
 This message is not an error, your push still worked. It's an early feedback for you to make sure the file works properly.
 
