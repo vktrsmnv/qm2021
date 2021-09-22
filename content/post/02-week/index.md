@@ -27,8 +27,8 @@ toc: false
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
 | Tue, Sep 21  | 13:30--14:30 | Office Hours (Lecture)                  | Online |             |
 |  | 17:15--18:45 | Lab 2 (David)                  | Online |       [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week02_probability)       |
-|   | 18:45 | Homework 2 Out                 | via Github |             |
-|   | 23:59 | Homework 1 Due                 | via Github |             |
+|   | 18:45 | Homework 2 Out                 | via Github |     [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw02)        |
+|   | 23:59 | Homework 1 Due                 | via Github |   [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw01)            |
 
 
 ### Readings
@@ -36,6 +36,5 @@ toc: false
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
 | :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.](https://ilias.uni-mannheim.de/goto.php?target=file_1172021_download&client_id=ILIAS) | **Required** |
-
-
+| :open_book: | [RMarkdown Cheatsheet](rmarkdown-2.0.pdf) | **Optional** |
 
