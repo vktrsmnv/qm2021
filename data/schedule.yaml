@@ -31,7 +31,7 @@ lessons:
     session: 4
     date: "Week 3"
     readings: "03-week"
-    slides: "03-week/QM_lecture3_handout.pdf"
+    slides: "03-week/QM_lecture03_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
     # lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
     # homework: "https://github.com/uni-mannheim-qm-2021?q=hw03"
