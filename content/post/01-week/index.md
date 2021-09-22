@@ -27,7 +27,7 @@ toc: false
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |             |
 | Tue, Sep 14  | 13:30--14:30 | Office Hours (Lecture)                  | Online |             |
 |  | 17:15--18:45 | Lab 1 (David)                  | Online |      [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021) [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm2021.shinyapps.io/qm2021_week01_david)        |
-| Tue, Sep 14  | 18:45 | Homework 1 Out                 | |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021)         |
+| Tue, Sep 14  | 18:45 | Homework 1 Out                 | |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw01)         |
 
 
 
