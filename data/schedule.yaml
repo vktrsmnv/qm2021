@@ -30,8 +30,8 @@ lessons:
     session: 4
     date: "Week 3"
     readings: "03-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
-    # lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
+    slides: "03-week/QM_lecture3_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
 
 
   - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Linear Regression** </span>'
@@ -40,7 +40,7 @@ lessons:
   - title: 'Linear Regression: Basics & Hypothesis Testing'
     session: 5
     date: "Week 4"
-    # readings: "02-week"
+    readings: "04-week"
     # slides: "02-week/QM2021_lecture2_handout.pdf"
   # - title: '<span class="fake-header-table">Simulations with Linear Model</span>'
   #   header: True
