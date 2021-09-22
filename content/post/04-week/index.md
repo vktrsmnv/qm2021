@@ -6,7 +6,7 @@ draft: false
 featured: false
 projects: []
 subtitle: ''
-summary: 'Here you can find the overview of the week and the readings. This week is all about uncertainty from sampling and confidence intervals. '
+summary: 'Here you can find the overview of the week and the readings. This week we start with OLS. '
 title: 'Week 04: Linear Regression: Basics & Hypothesis Testing'
 layout: docs
 type: docs
