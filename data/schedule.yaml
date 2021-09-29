@@ -54,7 +54,7 @@ lessons:
   - title: 'Linear Regression: Statistical Control & Causality'
     session: 6
     date: "Week 5"
-    # readings: "02-week"
+    readings: "05-week"
     # slides: "02-week/QM2021_lecture2_handout.pdf"
     
   - title: 'Linear Regression: Dummies and Interactions'

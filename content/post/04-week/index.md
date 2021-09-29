@@ -28,7 +28,7 @@ toc: false
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
 | Tue, Oct 05  | 13:30--14:30 | Office Hours (Lecture)                  | Online |             |
 |  | 17:15--18:45 | Lab 4 (David)                  | Online |       <i class="fab fa-github fa-lg"></i>       |
-|   | 18:45 | Homework 3 Out                 | via Github |             |
+|   | 18:45 | Homework 3 Out                 | via Github |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw03)         |
 |   | 23:59 | Homework 2 Due                 | via Github |         [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw02)    |
 
 
@@ -36,9 +36,9 @@ toc: false
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | [Kennedy, Peter. 2008. *A Guide to Econometrics*. Chapter 3.](https://ilias.uni-mannheim.de/goto.php?target=file_1172046_download&client_id=ILIAS) | **Required**|
-| :open_book: | [Fox, John. 2008. *Applied Regression Analysis.* Chapter 5.](https://ilias.uni-mannheim.de/goto.php?target=file_1172047_download&client_id=ILIAS) | **Required**|
-| :open_book: | [Fox, John. 2008. *Applied Regression Analysis.* Chapter 6.](https://ilias.uni-mannheim.de/goto.php?target=file_1172078_download&client_id=ILIAS) | **Required**|
+| :open_book: | [Angrist, Joshua D, and Jörn-Steffen Pischke. 2015. *Mastering Metrics. The Path from Cause to Effect.*](https://ilias.uni-mannheim.de/goto.php?target=file_1172086_download&client_id=ILIAS) | **Required**|
+| :open_book: | [Cinelli, Carlos, Andres Forney and Judea Pearl. 2021. *A Crash Course in Good and Bad Controls.*](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) | **Required**|
+
 
 
 
