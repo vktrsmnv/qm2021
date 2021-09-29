@@ -36,9 +36,9 @@ toc: false
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | [Angrist, Joshua D, and Jörn-Steffen Pischke. 2015. *Mastering Metrics. The Path from Cause to Effect.*](https://ilias.uni-mannheim.de/goto.php?target=file_1172086_download&client_id=ILIAS) | **Required**|
-| :open_book: | [Cinelli, Carlos, Andres Forney and Judea Pearl. 2021. *A Crash Course in Good and Bad Controls.*](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) | **Required**|
-
+| :open_book: | [Kennedy, Peter. 2008. *A Guide to Econometrics*. Chapter 3.](https://ilias.uni-mannheim.de/goto.php?target=file_1172046_download&client_id=ILIAS) | **Required**|
+| :open_book: | [Fox, John. 2008. *Applied Regression Analysis.* Chapter 5.](https://ilias.uni-mannheim.de/goto.php?target=file_1172047_download&client_id=ILIAS) | **Required**|
+| :open_book: | [Fox, John. 2008. *Applied Regression Analysis.* Chapter 6.](https://ilias.uni-mannheim.de/goto.php?target=file_1172078_download&client_id=ILIAS) | **Required**|
 
 
 

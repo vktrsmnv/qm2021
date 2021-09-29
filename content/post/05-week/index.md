@@ -36,8 +36,8 @@ toc: false
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | [Angrist, Joshua D, and Jörn-Steffen Pischke. 2015. Mastering Metrics. The Path from Cause to Effect. Chapter 2.]() | **Required** |
-| :open_book: | [Cinelli, Carlos, Andres Forney and Judea Pearl. 2020. A Crash Course in Good and Bad Controls.]() | **Required** |
+| :open_book: | [Angrist, Joshua D, and Jörn-Steffen Pischke. 2015. *Mastering Metrics. The Path from Cause to Effect.*](https://ilias.uni-mannheim.de/goto.php?target=file_1172086_download&client_id=ILIAS) | **Required**|
+| :open_book: | [Cinelli, Carlos, Andres Forney and Judea Pearl. 2021. *A Crash Course in Good and Bad Controls.*](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) | **Required**|
 
 
 
