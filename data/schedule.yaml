@@ -33,7 +33,7 @@ lessons:
     readings: "03-week"
     slides: "03-week/QM_lecture03_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
-    # lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
+    #lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
     homework: "https://github.com/uni-mannheim-qm-2021?q=hw03"
 
 
@@ -46,6 +46,7 @@ lessons:
     date: "Week 4"
     readings: "04-week"
     slides: "04-week/QM_lecture04_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week04_ols_basics""
 
     # slides: "02-week/QM2021_lecture2_handout.pdf"
   # - title: '<span class="fake-header-table">Simulations with Linear Model</span>'
