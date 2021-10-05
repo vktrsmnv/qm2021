@@ -28,8 +28,8 @@ toc: false
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
 | Tue, Oct 12  | 13:30--14:30 | Office Hours (Lecture)                  | Online |             |
 |  | 17:15--18:45 | Lab 5 (David)                  | Online |       <i class="fab fa-github fa-lg"></i>       |
-|   | 18:45 | Homework 4 Out                 | via Github |             |
-|   | 23:59 | Homework 3 Due                 | via Github |         [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw03)    |
+|   | 18:45 | Homework 5 Out                 | via Github |             |
+|   | 23:59 | Homework 4 Due                 | via Github |         [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw04)    |
 
 
 ### Readings
