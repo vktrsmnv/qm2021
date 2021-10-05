@@ -33,7 +33,7 @@ lessons:
     readings: "03-week"
     slides: "03-week/QM_lecture03_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
-    # lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
+    #lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
     homework: "https://github.com/uni-mannheim-qm-2021?q=hw03"
 
   - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Linear Regression** </span>'
@@ -45,15 +45,28 @@ lessons:
     readings: "04-week"
     slides: "04-week/QM_lecture04_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week04_ols_basics"
+<<<<<<< HEAD
     homework: "https://github.com/uni-mannheim-qm-2021?q=hw04"
+=======
+
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+  # - title: '<span class="fake-header-table">Simulations with Linear Model</span>'
+  #   header: True
+
+
+>>>>>>> b2b7bd4fb58ee75fee76169b8b888eb418c21eeb
 
   - title: 'Linear Regression: Statistical Control & Causality'
     session: 6
     date: "Week 5"
     readings: "05-week"
+<<<<<<< HEAD
     slides: "05-week/QM_lecture05_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week05_ols_control_causality"
     # homework: "https://github.com/uni-mannheim-qm-2021?q=hw05"
+=======
+    # slides: "02-week/QM2021_lecture2_handout.pdf"
+>>>>>>> b2b7bd4fb58ee75fee76169b8b888eb418c21eeb
     
   - title: 'Linear Regression: Dummies and Interactions'
     session: 7
