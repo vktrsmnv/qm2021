@@ -36,8 +36,6 @@ lessons:
     # lab: "https://github.com/uni-mannheim-qm-2021/week03_inference"
     homework: "https://github.com/uni-mannheim-qm-2021?q=hw03"
 
-
-
   - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Linear Regression** </span>'
     header: True
     
@@ -46,37 +44,40 @@ lessons:
     date: "Week 4"
     readings: "04-week"
     slides: "04-week/QM_lecture04_handout.pdf"
-
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
-  # - title: '<span class="fake-header-table">Simulations with Linear Model</span>'
-  #   header: True
-
-
+    lab: "https://github.com/uni-mannheim-qm-2021/week04_ols_basics"
+    homework: "https://github.com/uni-mannheim-qm-2021?q=hw04"
 
   - title: 'Linear Regression: Statistical Control & Causality'
     session: 6
     date: "Week 5"
-    # readings: "02-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    readings: "05-week"
+    slides: "05-week/QM_lecture05_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week05_ols_control_causality"
+    # homework: "https://github.com/uni-mannheim-qm-2021?q=hw05"
     
   - title: 'Linear Regression: Dummies and Interactions'
     session: 7
     date: "Week 6"
-    # readings: "02-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    # readings: "06-week"
+    # slides: "06-week/QM_lecture06_handout.pdf"
+    # lab: "https://github.com/uni-mannheim-qm-2021/week06_ols_dummy_interaction"
+    # homework: "https://github.com/uni-mannheim-qm-2021?q=hw06"
     
   - title: 'Linear Regression: Interpreting Substantive Effects via the Simulation Method'
     session: 8
     date: "Week 7"
-    # material: "04-content"
-    # lab: "04-lab"
-    # assignment: 
+    # readings: "07-week"
+    # slides: "07-week/QM_lecture07_handout.pdf"
+    # lab: "https://github.com/uni-mannheim-qm-2021/week07_ols_simulation"
+    # homework: "https://github.com/uni-mannheim-qm-2021?q=hw07"
     
   - title: "Linear Regression: Diagnostics"
     session: 9
     date: "Week 8"
-    # readings: "02-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
+    # readings: "08-week"
+    # slides: "08-week/QM_lecture08_handout.pdf"
+    # lab: "https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics"
+    # homework: "https://github.com/uni-mannheim-qm-2021?q=hw08"
     
   - title: "Midterm"
     session: 10
