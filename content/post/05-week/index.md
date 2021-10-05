@@ -21,7 +21,7 @@ toc: false
 
 | <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
 |:------------|:-------------|:-------------------|:------------|:----:|
-| Wed, Oct 6  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | <i class="far fa-file-pdf fa-lg"></i>  |
+| Wed, Oct 6  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture05_handout.pdf)  |
 | Thu, Oct 7  | 10:15--11:45 | Lab 5 (Oliver)                  | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) C-108 |    <i class="fab fa-github fa-lg"></i>          |
 |             | 15:30--16:30 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
 | Mon, Oct 11 | 12:00--13:30 | Lab 5 (Viktoriia)           | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) C-108 |       <i class="fab fa-github fa-lg"></i>      |
