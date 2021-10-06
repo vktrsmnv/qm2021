@@ -6,7 +6,7 @@ draft: false
 featured: false
 projects: []
 subtitle: ''
-summary: 'Here you can find the overview of the week and the readings. This week is all about uncertainty from sampling and confidence intervals. '
+summary: 'Here you can find the overview of the week and the readings. This week is all about categorical variables and heterogeneous effects. '
 title: 'Week 06: Linear Regression: Dummies and Interactions'
 layout: docs
 type: docs
