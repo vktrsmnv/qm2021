@@ -53,13 +53,13 @@ lessons:
     readings: "05-week"
     slides: "05-week/QM_lecture05_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week05_ols_control_causality"
-    # homework: "https://github.com/uni-mannheim-qm-2021?q=hw05"
+    homework: "https://github.com/uni-mannheim-qm-2021?q=hw05"
     
   - title: 'Linear Regression: Dummies and Interactions'
     session: 7
     date: "Week 6"
     readings: "06-week"
-    # slides: "06-week/QM_lecture06_handout.pdf"
+    slides: "06-week/QM_lecture06_handout.pdf"
     # lab: "https://github.com/uni-mannheim-qm-2021/week06_ols_dummy_interaction"
     # homework: "https://github.com/uni-mannheim-qm-2021?q=hw06"
     
