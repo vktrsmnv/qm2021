@@ -1,11 +1,12 @@
 ---
 authors:
 - admin
+- viktoriia
 date: "2021-09-13"
 projects: []
-subtitle: ''
+subtitle: ' '
 title: 'Authenticating with your Github Credentials in R'
-summary: ""  
+summary: " "  
 menu:
   misc:
     weight: 2

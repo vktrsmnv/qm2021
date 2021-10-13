@@ -3,9 +3,9 @@ authors:
 - admin
 date: "2021-10-13"
 projects: []
-subtitle: ''
+subtitle: ' '
 title: 'Merge conflicts'
-summary: ""  
+summary: " "  
 menu:
   misc:
     weight: 2

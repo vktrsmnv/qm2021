@@ -17,7 +17,7 @@ toc: false
 ---
 
 
-### Schedule of the Week ( -- )
+### Schedule of the Week 
 
 
 | <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
