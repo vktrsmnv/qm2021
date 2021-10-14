@@ -6,7 +6,7 @@ draft: false
 featured: false
 projects: []
 subtitle: ''
-summary: 'Here you can find the overview of the week and the readings. This week is all about categorical variables and heterogeneous effects. '
+summary: 'You will learn to present to results of your statistical analysis in an accessible way. '
 title: 'Week 07: Linear Regression: Interpreting Substantive Effects via the Simulation Method'
 layout: docs
 type: docs
