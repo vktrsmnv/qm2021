@@ -66,7 +66,7 @@ lessons:
   - title: 'Linear Regression: Interpreting Substantive Effects via the Simulation Method'
     session: 8
     date: "Week 7"
-    # readings: "07-week"
+    readings: "07-week"
     # slides: "07-week/QM_lecture07_handout.pdf"
     # lab: "https://github.com/uni-mannheim-qm-2021/week07_ols_simulation"
     # homework: "https://github.com/uni-mannheim-qm-2021?q=hw07"
