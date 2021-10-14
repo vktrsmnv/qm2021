@@ -19,7 +19,7 @@ toc: false
 
 ### Schedule of the Week 
 
-| <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
+| <div style="width:110px;text-align:left">Date</div> | <div style="width:110px;text-align:left">Time</div> | <div style="width:240px;text-align:left">Item</div> | <div style="width:110px;text-align:left">Room</div> |<div style="width:110px;text-align:center">Material</div> |
 |:------------|:-------------|:-------------------|:------------|:----:|
 | Wed, Sep 15  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture02_handout.pdf)   |
 | Thu, Sep 16  | 10:15--11:45 | Lab 2 (Oliver)                  | A5,6 C-108 |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week02_probability)          |
@@ -35,8 +35,8 @@ toc: false
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.](https://ilias.uni-mannheim.de/goto.php?target=file_1172021_download&client_id=ILIAS) | **Required** |
-| :open_book: | [RMarkdown Cheatsheet](rmarkdown-2.0.pdf) | **Optional** |
+| <i class="fas fa-book-open"></i>  | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.](https://ilias.uni-mannheim.de/goto.php?target=file_1172021_download&client_id=ILIAS) | **Required** |
+| <i class="fas fa-book-open"></i>  | [RMarkdown Cheatsheet](rmarkdown-2.0.pdf) | **Optional** |
 
 ### Slides
 

@@ -19,7 +19,7 @@ toc: false
 
 ### Schedule of the Week 
 
-| <div style="width:100px;text-align:left">Date</div> | <div style="width:100px;text-align:left">Time</div> | <div style="width:180px;text-align:left">Item</div> | <div style="width:100px;text-align:left">Room</div> |<div style="width:100px;text-align:center">Material</div> |
+| <div style="width:110px;text-align:left">Date</div> | <div style="width:110px;text-align:left">Time</div> | <div style="width:240px;text-align:left">Item</div> | <div style="width:110px;text-align:left">Room</div> |<div style="width:110px;text-align:center">Material</div> |
 |:------------|:-------------|:-------------------|:------------|:----:|
 | Wed, Oct 6  | 8:30--10:00   | Lecture                         | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) B 144  | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture05_handout.pdf)  |
 | Thu, Oct 7  | 10:15--11:45 | Lab 5 (Oliver)                  | [A5,6](https://goo.gl/maps/Mhkizwo4vd1vqvUH6) C-108 |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week05_ols_control_causality)          |
@@ -36,8 +36,8 @@ toc: false
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | [Angrist, Joshua D, and Jörn-Steffen Pischke. 2015. *Mastering Metrics. The Path from Cause to Effect.*](https://ilias.uni-mannheim.de/goto.php?target=file_1172086_download&client_id=ILIAS) | **Required**|
-| :open_book: | [Cinelli, Carlos, Andres Forney and Judea Pearl. 2021. *A Crash Course in Good and Bad Controls.*](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) | **Required**|
+| <i class="fas fa-book-open"></i>  | [Angrist, Joshua D, and Jörn-Steffen Pischke. 2015. *Mastering Metrics. The Path from Cause to Effect.*](https://ilias.uni-mannheim.de/goto.php?target=file_1172086_download&client_id=ILIAS) | **Required**|
+| <i class="fas fa-book-open"></i>  | [Cinelli, Carlos, Andres Forney and Judea Pearl. 2021. *A Crash Course in Good and Bad Controls.*](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) | **Required**|
 
 
 ### Slides

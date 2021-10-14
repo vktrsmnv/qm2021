@@ -37,7 +37,7 @@ toc: false
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :page_facing_up: | [Gary King, Michael Tomz, and Jason Wittenberg. 2001. "Making the Most of Statistical Analyses: Improving Interpretation and Presentation" *American Journal of Political Science* 44(2): 347-361.](https://ilias.uni-mannheim.de/goto.php?target=file_1172098_download&client_id=ILIAS) | **Required** |
+| <i class="fas fa-book-open"></i>  | [Gary King, Michael Tomz, and Jason Wittenberg. 2001. "Making the Most of Statistical Analyses: Improving Interpretation and Presentation" *American Journal of Political Science* 44(2): 347-361.](https://ilias.uni-mannheim.de/goto.php?target=file_1172098_download&client_id=ILIAS) | **Required** |
 
 
 
