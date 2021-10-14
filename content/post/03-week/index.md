@@ -39,5 +39,7 @@ toc: false
 | :open_book: | [Jeffrey M. Wooldridge. 2012. Introductory Econometrics: A Modern Approach. Appendix C.](https://ilias.uni-mannheim.de/goto.php?target=file_1172034_download&client_id=ILIAS) | **Required** <br>*Focus on sections<br>C1, C5 and C6* |
 
 
+### Slides
 
+<iframe src="QM_lecture03_handout.pdf#toolbar=0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen width="604.8" height="339.84">
 

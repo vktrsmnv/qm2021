@@ -40,4 +40,6 @@ toc: false
 | :open_book: | [Cinelli, Carlos, Andres Forney and Judea Pearl. 2021. *A Crash Course in Good and Bad Controls.*](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) | **Required**|
 
 
+### Slides
 
+<iframe src="QM_lecture05_handout.pdf#toolbar=0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen width="604.8" height="339.84">

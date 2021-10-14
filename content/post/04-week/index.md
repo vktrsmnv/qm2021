@@ -41,7 +41,9 @@ toc: false
 | :open_book: | [Fox, John. 2008. *Applied Regression Analysis.* Chapter 6.](https://ilias.uni-mannheim.de/goto.php?target=file_1172078_download&client_id=ILIAS) | **Required**|
 
 
+### Slides
 
+<iframe src="QM_lecture04_handout.pdf#toolbar=0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen width="604.8" height="339.84">
 
 
 

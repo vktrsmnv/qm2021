@@ -38,3 +38,6 @@ toc: false
 | :open_book: | [Moore, Will H., and David A. Siegel. 2009. A Mathematics Course for Political & Social Research. Chapters 9--11.](https://ilias.uni-mannheim.de/goto.php?target=file_1172021_download&client_id=ILIAS) | **Required** |
 | :open_book: | [RMarkdown Cheatsheet](rmarkdown-2.0.pdf) | **Optional** |
 
+### Slides
+
+<iframe src="QM_lecture02_handout.pdf#toolbar=0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen width="604.8" height="339.84">
