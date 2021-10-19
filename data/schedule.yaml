@@ -61,14 +61,14 @@ lessons:
     readings: "06-week"
     slides: "06-week/QM_lecture06_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week06_ols_dummy_interaction"
-    # homework: "https://github.com/uni-mannheim-qm-2021?q=hw06"
+    homework: "https://github.com/uni-mannheim-qm-2021?q=hw06"
     
   - title: 'Linear Regression: Interpreting Substantive Effects via the Simulation Method'
     session: 8
     date: "Week 7"
     readings: "07-week"
-    # slides: "07-week/QM_lecture07_handout.pdf"
-    # lab: "https://github.com/uni-mannheim-qm-2021/week07_ols_simulation"
+    slides: "07-week/QM_lecture07_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week07_ols_simulation"
     # homework: "https://github.com/uni-mannheim-qm-2021?q=hw07"
     
   - title: "Linear Regression: Diagnostics"
