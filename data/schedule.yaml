@@ -82,6 +82,7 @@ lessons:
   - title: "Midterm"
     session: 10
     date: "Week 9"
+    readings: "09-week"
 
 
   - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Non-linear Probability Models** </span>'

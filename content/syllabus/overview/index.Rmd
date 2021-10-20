@@ -140,8 +140,8 @@ cal$hw_due <- ""
 cal$hw_due[cal$day == "Tue"] <- c(
   "", "",
   paste0("HW", 1:6, " due"),
-  "", "",
-  paste0("HW", 7:10, " due")
+  "", "HW7 due", "",
+  paste0("HW", 8:10, " due")
 )
 
 cal$hw_out <- ""

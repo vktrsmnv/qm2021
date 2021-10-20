@@ -23,9 +23,8 @@ toc: false
 |:------------|:-------------|:-------------------|:------------|:----:|
 | Wed, Oct 27  | 8:30--10:00   | Lecture                         | A5, 6 B144  | <i class="far fa-file-pdf fa-lg"></i>  |
 | Thu, Oct 28  |  15:30--16:30 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) | 
-| Mon, Nov 1 | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |
 | Tue, Nov 2  | 13:30--14:30 | Office Hours (Lecture)                  | [Online](https://uni-mannheim.zoom.us/j/68595945348?pwd=TWtzOGdORXhMV1Q5YUZTUWVrejdwZz09) | 
-
+|  | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |
 
 ### Readings
 
