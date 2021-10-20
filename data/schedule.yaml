@@ -69,12 +69,12 @@ lessons:
     readings: "07-week"
     slides: "07-week/QM_lecture07_handout.pdf"
     lab: "https://github.com/uni-mannheim-qm-2021/week07_ols_simulation"
-    # homework: "https://github.com/uni-mannheim-qm-2021?q=hw07"
+    homework: "https://github.com/uni-mannheim-qm-2021?q=hw07"
     
   - title: "Linear Regression: Diagnostics"
     session: 9
     date: "Week 8"
-    # readings: "08-week"
+    readings: "08-week"
     # slides: "08-week/QM_lecture08_handout.pdf"
     # lab: "https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics"
     # homework: "https://github.com/uni-mannheim-qm-2021?q=hw08"
@@ -82,8 +82,7 @@ lessons:
   - title: "Midterm"
     session: 10
     date: "Week 9"
-    # readings: "02-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"
+
 
   - title: '<span class="fake-header-table" style="font-size: 0.8rem;"> **Non-linear Probability Models** </span>'
     header: True
