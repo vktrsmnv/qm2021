@@ -23,12 +23,12 @@ toc: false
 | <div style="width:110px;text-align:left">Date</div> | <div style="width:110px;text-align:left">Time</div> | <div style="width:240px;text-align:left">Item</div> | <div style="width:110px;text-align:left">Room</div> |<div style="width:110px;text-align:center">Material</div> |
 |:------------|:-------------|:-------------------|:------------|:----:|
 | Wed, Oct 20  | 8:30--10:00   | Lecture                         | A5, 6 B144  | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture07_handout.pdf)  |
-| Thu, Oct 21  | 10:15--11:45 | Lab 7 (Oliver)                  | A5, 6 C-108 |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week07_ols_simulation)         |
+| Thu, Oct 21  | 10:15--11:45 | Lab 7 (Oliver)                  | A5, 6 C-108 |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week07_ols_simulation)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab07.netlify.app/)       |
 |             | 15:30--16:30 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
-| Mon, Oct 25 | 12:00--13:30 | Lab 7 (Viktoriia)           | A5, 6 C-108 |        [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week07_ols_simulation)        |
+| Mon, Oct 25 | 12:00--13:30 | Lab 7 (Viktoriia)           | A5, 6 C-108 |        [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week07_ols_simulation)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab07.netlify.app/)      |
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
 | Tue, Oct 26  | 13:30--14:30 | Office Hours (Lecture)                  | [Online](https://uni-mannheim.zoom.us/j/68595945348?pwd=TWtzOGdORXhMV1Q5YUZTUWVrejdwZz09) |             |
-|  | 17:15--18:45 | Lab 7 (David)                  | Online |       [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week07_ols_simulation)       |
+|  | 17:15--18:45 | Lab 7 (David)                  | Online |       [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week07_ols_simulation)   [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab07.netlify.app/)    |
 |   | 18:45 | Homework 7 Out                 | via Github |     [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw07)  |
 |   | 23:59 | Homework 6 Due                 | via Github |         [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw06)  |
 
