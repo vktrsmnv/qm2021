@@ -1,0 +1,16 @@
+---
+title: "Midterm Exam"
+subtitle: "Troubleshooting"
+output: html_document
+---
+
+Here you can find the PDF of your the Midterm Exam. 
+
+- You have 90 minutes to work on the exam. The exam will be available for download at 8:25, so you have a 5-minute-buffer to prepare working on it. 
+- It is up to you whether you print out the exam, write the answers on a separate sheet of paper, or edit the exam on your computer. However, we discourage the last option as there is the possibility that you have to sketch out plots and this may be difficult on your computer.
+- We expect you to have your camera running at all times.
+- If you print out the exam or write on a separate sheet, please make sure that you have a device ready to scan your exam. This can be a scanner or an app on your mobile phone.
+- After 90 minutes, you will have additional 10 minutes to scan your exam and mail it to `orittman@mail.uni-mannheim.de`. If you run into technical difficulties and 10 minutes will not suffice, this is no problem as long as your camera is on and we can see that you are not working on the exam anymore.
+
+
+Here you can download your copy of the exam: [<i class="fas fa-file-pdf"></i>](mdtrmxmgpa.pdf)
