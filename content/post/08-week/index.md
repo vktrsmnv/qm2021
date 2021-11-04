@@ -24,12 +24,12 @@ toc: false
 | Wed, Oct 27  | 8:30--10:00   | Lecture                         | A5, 6 B144  | [<i class="far fa-file-pdf fa-lg"></i>](QM_lecture08_handout.pdf)  |
 | Thu, Oct 28  |  15:30--16:30 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) | 
 | Tue, Nov 2  | 13:30--14:30 | Office Hours (Lecture)                  | [Online](https://uni-mannheim.zoom.us/j/68595945348?pwd=TWtzOGdORXhMV1Q5YUZTUWVrejdwZz09) | 
-| Thu, Nov 4  | 10:15--11:45 | Lab 7 (Oliver)                  | A5, 6 C-10 |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab07.netlify.app/)       |
+| Thu, Nov 4  | 10:15--11:45 | Lab 8 (Oliver)                  | Online |    [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab08.netlify.app/)       |
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |
-| Mon, Nov 8 | 12:00--13:30 | Lab 7 (Viktoriia)           | A5, 6 C-108 |        [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab07.netlify.app/)      |
+| Mon, Nov 8 | 12:00--13:30 | Lab 8 (Viktoriia)           | A5, 6 C-108 |        [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics)  [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab08.netlify.app/)      |
 |             | 15:30--17:00 | Office Hours (Lab)           | [Online](https://uni-mannheim.zoom.us/j/62493789522?pwd=M0EwaWg4Mm5xbWtTRHVLOUdteXFjdz09) |  
 | Tue, Nov 9  | 13:30--14:30 | Office Hours (Lecture)                  | [Online](https://uni-mannheim.zoom.us/j/68595945348?pwd=TWtzOGdORXhMV1Q5YUZTUWVrejdwZz09) |             |
-|  | 17:15--18:45 | Lab 7 (David)                  | Online |       [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics)   [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab07.netlify.app/)    |
+|  | 17:15--18:45 | Lab 8 (David)                  | Online |       [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics)   [<i class="fas fa-external-link-alt fa-lg"></i>](https://qm-lab08.netlify.app/)    |
 |   | 18:45 | Homework 8 Out                 | via Github |     [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw08)  |
 |   | 23:59 | Homework 7 Due                 | via Github |         [<i class="fab fa-github fa-lg"></i>](https://github.com/uni-mannheim-qm-2021?q=hw07)  |
 
