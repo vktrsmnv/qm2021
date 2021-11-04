@@ -76,7 +76,7 @@ lessons:
     date: "Week 8"
     readings: "08-week"
     slides: "08-week/QM_lecture08_handout.pdf"
-    # lab: "https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics"
+    lab: "https://github.com/uni-mannheim-qm-2021/week08_ols_diagnostics"
     # homework: "https://github.com/uni-mannheim-qm-2021?q=hw08"
     
   - title: "Midterm"
