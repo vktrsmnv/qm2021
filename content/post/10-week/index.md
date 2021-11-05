@@ -7,12 +7,12 @@ featured: false
 projects: []
 subtitle: ''
 summary: 'This week will build the foundation for the second part of the course, and you will get acquainted with a different way to inference and estimation.'
-title: 'Week 08: The Likelihood Theory of Statistical Inference'
+title: 'Week 10: The Likelihood Theory of Statistical Inference'
 layout: docs
 type: docs
 menu:
   post:
-    weight: 8
+    weight: 10
 toc: false
 ---
 
