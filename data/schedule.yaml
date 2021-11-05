@@ -91,19 +91,20 @@ lessons:
   - title: "The Likelihood Theory of Statistical Inference"
     session: 11
     date: "Week 10"
-    # readings: "02-week"
+    readings: "10-week"
     # slides: "02-week/QM2021_lecture2_handout.pdf"
     
   - title: "Binary Data"
     session: 12
     date: "Week 11"
-    # readings: "02-week"
+    readings: "11-week"
     # slides: "02-week/QM2021_lecture2_handout.pdf"    
     
   - title: 'Count Data'
     session: 13
     date: "Week 12"
-    
+    #readings: "12-week"
+        
   - title: 'Semester Wrap-up'
     session: 14
     date: "Week 13"
