@@ -93,6 +93,9 @@ lessons:
     date: "Week 10"
     readings: "10-week"
     slides: "10-week/QM_lecture10_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week10_mle"
+    homework: "https://github.com/uni-mannheim-qm-2021?q=hw08"
+
     
   - title: "Binary Data"
     session: 12
