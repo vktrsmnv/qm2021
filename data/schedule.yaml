@@ -101,8 +101,10 @@ lessons:
     session: 12
     date: "Week 11"
     readings: "11-week"
-    # slides: "02-week/QM2021_lecture2_handout.pdf"    
-    
+    slides: "11-week/QM_lecture11_handout.pdf"    
+    lab: "https://github.com/uni-mannheim-qm-2021/week11_logit"
+    homework: "https://github.com/uni-mannheim-qm-2021?q=hw09"
+
   - title: 'Count Data'
     session: 13
     date: "Week 12"
