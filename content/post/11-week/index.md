@@ -39,3 +39,7 @@ toc: false
 |:---:|:---|:---:|
 | <i class="fas fa-book-open"></i> | [Fox, John. 2008. *Applied Regression Analysis*. Chapter 14.1](https://ilias.uni-mannheim.de/goto.php?target=file_1172288_download&client_id=ILIAS) | **Required** |
 
+### Slides
+
+<iframe src="QM_lecture11_handout.pdf#toolbar=0" frameborder="0" marginwidth="0" marginheight="0"  style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen width="604.8" height="339.84">
+
