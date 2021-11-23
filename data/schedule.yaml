@@ -108,8 +108,9 @@ lessons:
   - title: 'Count Data'
     session: 13
     date: "Week 12"
-    #readings: "12-week"
-        
+    readings: "12-week"
+    slides: "12-week/QM_lecture12_handout.pdf"    
+    
   - title: 'Semester Wrap-up'
     session: 14
     date: "Week 13"
