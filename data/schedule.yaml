@@ -109,7 +109,8 @@ lessons:
     session: 13
     date: "Week 12"
     readings: "12-week"
-    slides: "12-week/QM_lecture12_handout.pdf"    
+    slides: "12-week/QM_lecture12_handout.pdf"
+    lab: "https://github.com/uni-mannheim-qm-2021/week12_count_models/"   
     
   - title: 'Semester Wrap-up'
     session: 14
