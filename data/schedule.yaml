@@ -109,11 +109,15 @@ lessons:
     session: 13
     date: "Week 12"
     readings: "12-week"
-    slides: "12-week/QM_lecture12_handout.pdf"    
+    slides: "12-week/QM_lecture12_handout.pdf"  
+    lab: "https://github.com/uni-mannheim-qm-2021/week12_count"
+    homework: "https://github.com/uni-mannheim-qm-2021?q=hw10"
     
   - title: 'Semester Wrap-up'
     session: 14
     date: "Week 13"
+    slides: "13-week/QM_lecture13_handout.pdf"    
+    lab: "https://github.com/uni-mannheim-qm-2021/week13_wrap_up"
     
   - title: 'Data Essay Week'
     session: 15
